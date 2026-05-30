@@ -1,0 +1,66 @@
+#+title: 汉语语法笔记
+#+latex_class: elegant-book
+#+LATEX_HEADER: \usepackage{etoolbox}
+#+LATEX_HEADER: \makeatletter
+#+LATEX_HEADER: \patchcmd{\@schapter}{\@makeschapterhead}{\addcontentsline{toc}{chapter}{#1}\@makeschapterhead}{}{}
+#+LATEX_HEADER: \patchcmd{\@ssect}{#5}{\addcontentsline{toc}{section}{#5}#5}{}{}
+#+LATEX_HEADER: \makeatother
+#+LATEX_HEADER: \setcounter{secnumdepth}{-2}   % 让 chapter 和 section 都不显示编号
+
+* 1 语法单位
+** 语素
++ 什么叫语素，语素的例子
++ 语素和音素的区别
++ 语素有哪些种类
++ 语素的特点
+
+
+语素是最小有意义的语言成分。在“我喜欢弹琵琶”中，我、喜、欢、弹都有意义，并且不能被分成更小的单位，但是琵琶单独拿出来一个都没有意义，只能被理解成一个语素。
+
+语素的种类。两种分类方式。
+
+第一种分类方式是看是否能独立成句，或者必须与别的语素组词。自由语素，粘着语素。前者可以自由成句，后者不能。
+第二种分类方式是看位置是否固定。如果固定则称为定位语素，否则如果有时在前，有时在后，则是不定位语素。后者又有前置与后置之分。
+
+音节和语素的关系，汉字和语素的关系。大部分汉字是单音节语素，同一个音节对应多个语素，大多数的汉字都是一字对应一个语素，但也有一个字对应不同语素，如乐——快乐、音乐。有的时候同一个语素也会用不同汉字表示，如吧，罢。
+** 词
+
++ 什么叫词
++ 词和语素的关系
++ 词的分类
++ 词和非词的界限
+
+
+
+* 2 简单句和复杂句
+:PROPERTIES:
+:ID:       L20260520.130015_2 简单句和复杂句
+:END:
+
+
+印欧语中，简单句必须是主谓宾结构。但汉语中并非如此。汉语简单句最简单的是一个词。
+
+#+begin_quote
+It rained all night,  so  the mountain road became muddy,\\
+[主句]              [连词] [从句]
+and therefore we had to cancel our hiking plan.
+[连词]        [从句]
+#+end_quote
+
+更一般地，在印欧语中，以英语为例，一个句子必须包含一个动词，句子有其构造规则，词组有其构造规则。
+但汉语词组与句子的构造规则是一致的。即：
+
+#+begin_quote
+词组的构造规则与句子的构造规则是基本一致的
+#+end_quote
+
+汉语的基础构件是词组（短语）。基本的句子是主谓句和非主谓句。
+
+中文复杂句的重要部分是“意合句”，如：
+#+begin_quote
+大雨下了一夜，山路不好走，登山计划怕要取消了。
+#+end_quote
+用关联词来重写之后，句子变得很臃肿：
+#+begin_quote
+因为昨天下了一场暴雨，所以山路变得非常泥泞，因此我们不得不取消了登山的计划。
+#+end_quote

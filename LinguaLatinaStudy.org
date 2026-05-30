@@ -1,0 +1,42 @@
+#+title: Lingua Latina per se Illustrata
+#+author: Hans Ørberg
+
+* CAP. I
+Rōma in Italiā est. Italia in Eurōpā est.
+
+-a, -ā:
++ Italia...
++ in Italiā...
++ a should be ā after in.
+
+
+Italia et Graecia in Eurōpā sunt.
++ et = and
++ est = est(plural.)
+
+
+Aegyptus in Eurōpā nōn est, Aegyptus in Āfricā est. Gallia nōn in Āfricā est, Gallia est in Eurōpā. Syria nōn est in Eurōpā, sed in Asiā. Arabia quoque in Asiā est. Syria et Arabia in Asiā sunt. Germānia nōn in Asiā, sed in Eurōpā est. Britannia quoque in Eurōpā est. Germānia et Britannia sunt in Eurōpā.
++ nōn = not, put before X, means not X. Aegyptus is not in Eurōpā
++ quoque = also/too/as well.
+
+
+Estne Gallia in Eurōpā? Gallia in Eurōpā est.
+Estne Rōma in Galliā? Rōma in Galliā nōn est.
+Ubi est Rōma? Rōma est in Italiā. Ubi est Italia? Italia in Eurōpā est. Ubi sunt Gallia et Hispānia? Gallia et Hispānia in Eurōpā sunt.
++ estne = est 1st word, est > estne.
++ -ne: Attach to first word of a sentence to turn it into a Yes/No question
++ ubi = where; Ubi sunt = where are;
+
+
+Estne Nīlus in Eurōpā? Nīlus in Eurōpā nōn est. Ubi est Nīlus? Nīlus in Āfricā est. Rhēnus ubi est? Rhēnus est in Germāniā. Nīlus fluvius est. Rhēnus fluvius est. Nīlus et Rhēnus fluviī sunt. Dānuvius quoque fluvius est. Rhēnus et Dānuvius sunt fluviī in Germānia. Tiberis fluvius in Italiā est.
++ -us = singular; -ī = plural
++ fluvius = river
++ fluviī = rivers
+
+
+Corsica īnsula est; Corsica īnsula parva est. Britannia nōn parva īnsula est. Britannia magna īnsula est.
+Estne Nīlus fluvius parvus? Nīlus nōn parvus fluvius, sed Nīlus magnus fluvius est.
++ -us > -ī; singular > plural;
++ magnus/magna = large; parvus/parva = small;
++ adj: Xus: magnus/parvus; Xa magna/parva. Now we nōn know grammar terms, like gender.
++ Insula parva isoate  lated place surrounded by water est
