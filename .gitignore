@@ -5,6 +5,11 @@ Thumbs.db
 \#*\#
 .\#*
 
+# Org-mode 导出遗留文件
+*.bbl
+*.blg
+_tex/
+
 # 外部目录软链接，不纳入版本控制
 novel
 project
