@@ -1,0 +1,2325 @@
+#+title: Brandon Sanderson Lectures English
+#+startup: overview
+
+Brandon Sanderson, epic-level fantasy novelist and all-around good guy,
+teaches a fiction writing course at Brigham Young University. Because of
+the general niceness, he's made all the lectures available on Youtube.
+Because of the epic-level skill, the lectures are /freaking useful/.
+
+Since you might not have time to listen to the entire hour-long class,
+I'm taking notes for you. They're not exhaustive, but they get the
+donkey work out of the way.
+
+* Table of Contents :toc:
+- [[#session-1-introductory-notes][Session 1: Introductory Notes]]
+  - [[#_on-advice_][_On Advice_]]
+  - [[#on-word-count][On Word Count]]
+  - [[#_on-sizes_][_On Sizes_]]
+  - [[#_ideas-are-cheap_][_Ideas Are Cheap_]]
+  - [[#_description-of-class_-and-_writing-groups_][_Description of Class_ and _Writing Groups_]]
+  - [[#_the-two-types-of-writers_][_The Two Types of Writers_]]
+- [[#session-2-brainstorming][Session 2: Brainstorming]]
+  - [[#_writers-need-multiple-brains_][_Writers Need Multiple Brains_]]
+  - [[#_why-form-matters_][_Why Form Matters_]]
+  - [[#_storytelling_][_Storytelling_]]
+  - [[#_nailing-your-ideas_][_Nailing Your Ideas_]]
+- [[#session-3-prose-i---style-viewpoint-and-infodumps][Session 3: Prose I---Style, Viewpoint, and Infodumps]]
+  - [[#_prose-and-style_][_Prose and Style_]]
+  - [[#_learning-curves_][_Learning Curves_]]
+  - [[#_viewpoints_][_Viewpoints_]]
+  - [[#_variations_][_Variations_]]
+  - [[#_tense_][_Tense_]]
+  - [[#_infodumps_][_Infodumps_]]
+- [[#session-4-plot-i---promises-and-progress][Session 4: Plot I---Promises and Progress]]
+  - [[#qa][Q&A]]
+  - [[#_plot_][_Plot_]]
+  - [[#_tools-to-streamline-a-plot_][_Tools to Streamline a Plot_]]
+  - [[#_plotting-methods_][_Plotting Methods_]]
+  - [[#_the-strange-attractor_][_The Strange Attractor_]]
+  - [[#_concerning-plot-envy_][_Concerning Plot Envy_]]
+  - [[#_you-are-a-stage-magician_][_You Are a Stage Magician_]]
+  - [[#_how-to-make-a-book-guide_][_How to Make a Book Guide_]]
+- [[#session-5-character-i---likable-active-competent][Session 5: Character I---Likable, Active, Competent]]
+  - [[#qa-plot][Q&A: Plot]]
+  - [[#_character_][_Character_]]
+  - [[#_character-as-role_][_Character-as-Role_]]
+  - [[#_character-considerations_][_Character Considerations_]]
+- [[#session-6-setting-i---you-cannot-do-everything][Session 6: Setting I---You Cannot Do Everything]]
+  - [[#qa-character][Q&A: Character]]
+  - [[#_setting_][_Setting_]]
+  - [[#_the-basics-of-setting_][_The Basics of Setting_]]
+  - [[#_sandersons-laws_][_Sanderson's Laws_]]
+- [[#session-7-prose---the-grand-skill][Session 7: Prose---The Grand Skill]]
+  - [[#qa-prose][Q&A: Prose]]
+  - [[#_prose_][_Prose_]]
+  - [[#_the-pyramid-of-abstraction_][_The Pyramid of Abstraction_]]
+  - [[#_infodumps_-1][_Infodumps_]]
+  - [[#_qa-again_][_Q&A Again_]]
+- [[#session-8-prose-iii---shop-it][Session 8: Prose III---Shop It]]
+  - [[#_qa-assorted_][_Q&A: Assorted_\\]]
+  - [[#_prose-workshop_][_Prose Workshop_]]
+
+* Session 1: Introductory Notes
+:PROPERTIES:
+:CUSTOM_ID: session-1-introductory-notes
+:END:
+Largely this is a discussion of the syllabus and the class format, but
+it contains some handy starting-off stuff. Blue text jumps to the
+mentioned section; less important topics are not linked.
+
+** [[https://www.youtube.com/watch?feature=player_detailpage&list=PLRO9W1Nmh6clZP-IAhMeMpMru7vJaW7KJ&v=s9X4eSi42vQ#t=425][_On Advice_]]
+:PROPERTIES:
+:CUSTOM_ID: on-advice
+:END:
+*Rule 1: This advice is good except when it's not.*
+
+Writers /love/ to give writing advice. Ask any writer, even one who
+doesn't write very often, and s/he can give you loads and loads of
+advice on what's worked for them. This is handy---provided you're
+filtering it through the fact that you are not that writer. Consider
+Stephen King and Orson Scott Card. King hates outlines passionately,
+believing they stifle creativity and suffocate the story. Card says
+outlines are great and you should use one.
+
+All writing advice /needs/ to be filtered through that idea. All writing
+advice is good---except when it's not.
+
+** On Word Count
+:PROPERTIES:
+:CUSTOM_ID: on-word-count
+:END:
+You ought to be thinking in word count. Pages are malleable.
+
+** [[https://www.youtube.com/watch?list=PLRO9W1Nmh6clZP-IAhMeMpMru7vJaW7KJ&feature=player_detailpage&v=s9X4eSi42vQ#t=821][_On Sizes_]]
+:PROPERTIES:
+:CUSTOM_ID: on-sizes
+:END:
+Books in different markets vary in sizes.
+
+- Middle grade novels: 40k-50k
+
+- YAs: 65k-85k
+
+- Adult novels: 75k/80k and up
+
+*From 15 minutes in until about 22 minutes in, it's just syllabus
+discussion
+
+** [[https://www.youtube.com/watch?feature=player_detailpage&v=s9X4eSi42vQ#t=1380][_Ideas Are Cheap_]]
+:PROPERTIES:
+:CUSTOM_ID: ideas-are-cheap
+:END:
+The goal of this class is to turn students into writers who /write good
+books/, not writers who /write one good book/. There's a strain of
+thought that the fundamental ingredient of a good book is a great idea;
+Sanderson disagrees.
+
+Jim Butcher, before he was published, was on a forum discussing this
+very thing and said something to the effect of, “A great writer will
+take the worst idea and make a wonderful story out of it, and a bad
+writer will take the /best/ idea and screw it up. It's not the idea,
+it's the skillset.” His opponent challenged him to combine /Pokemon/ and
+the Lost Roman Legion---which then became the Codex Alera books, a
+bestselling series.
+
+You may be a Mozart of writing, but that's /very very very/ rare. The
+vast majority of writers toil in obscurity for a while, honing their
+craft. The concept here is that you're /training to be a writer,/ not
+just writing. The focus is on becoming better and learning how to write
+well.
+
+** [[https://www.youtube.com/watch?v=s9X4eSi42vQ#t=1582][_Description of Class_]] and [[https://www.youtube.com/watch?v=s9X4eSi42vQ#t=2415][_Writing Groups_]]
+:PROPERTIES:
+:CUSTOM_ID: description-of-class-and-writing-groups
+:END:
+Not relevant to writing novels, but /very/ useful for building a writing
+group. Goes until about 56:20. Highlights:
+
+- As with everything in the class, writing groups are not necessarily
+  for everyone.
+
+- Members have a weekly word count goal, submitted to other members of
+  the group (4--6 people; preferred number is 5).
+
+- Other members of the group read these submissions before meeting
+  (should take about an hour). The group meets for about 1 hour to give
+  feedback on each story, which works out to around 10 minutes per
+  person.
+
+- To the Workshoppers:
+
+  - This is reader response, not fellow writers brainstorming. Once
+    again, with feeling: *you are a reader*. Informed, intelligent,
+    aware of the craft of writing, but still a reader. You are not
+    turning the story into what /you/ want---you are helping your peer
+    write the story they want to tell.
+
+  - Focus on /descriptive/ content, not /prescriptive/ content---that
+    is, say “I was bored” or “I am confused” or “I hate this character”
+    or “If you kill this character I, as an invested reader, will
+    STRAIGHT UP KILL YOU BACK” instead of “Ooh! You should make him find
+    a magic sword!” or “You /have/ to kill the mentor!”
+
+  - These help curtail the problem of workshop groups hijacking stories
+    (because that can, and often does, happen).
+
+- To the Workshopee:
+
+  - Resist the urge to defend yourself.
+
+  - Resist the urge to defend yourself.
+
+  - Seriously.
+
+  - Yes, you.
+
+  - *Resist the urge to defend yourself.*
+
+  - This is a /focus group/: you are using your workshop group to find
+    out how audiences respond to your story, not to reassure yourself
+    you're a good writer. Imagine yourself as a fly on the wall when the
+    others talk about your story---this will be more useful to you
+    anyway.
+
+  - Readers might be confused by something that will /totally/ be
+    explained later; don't explain it to them. You'll want to prove to
+    them that you're a genius, but *resist that instinct too*. If you
+    give it away, you rob yourself of their honest feedback about the
+    big twist at the end.
+
+  - You are permitted to ask questions, provided you can do it without
+    pre-disposing your audience.
+
+- Appoint a team leader. Find the most Type-A extrovert you have in your
+  group---someone who will (a) encourage others to talk and (b)
+  encourage folks to stick on schedule.
+
+- Those of you who talk a lot---*stop*. If you're talking the whole
+  time, you will probably steamroll the quieter ones in the group.
+  *Don't do that.*
+
+- Quiet ones in the group (you know who you are): /your insight is
+  valuable/. *Share it.*
+
+- When you give feedback, *start with good things.* It helps the writers
+  to know what is already working. (This can actually be more valuable
+  than criticism.) Focus on what's working /for you/ in the story. Liked
+  a joke? Tell them. Think this character is the best one since John
+  McClane? Tell them. One particular phrase gave you the shivers? *Tell
+  them*.
+
+- Move on from there to /large scale issues/. We're talking
+  *characterization, plot, and setting*. Do not burn this time with
+  grammar issues unless the workshopee has turned in something written
+  in honest-to-goodness Pidgin English and it's getting in the way.
+
+  - If you /have/ to edit the other folks' work, print out the pages and
+    mark them in red and give them to the writer; this will fulfill your
+    duty to the universe to stamp out typos wherever they may hide,
+    /without/ burning your writing group's precious time.
+
+** [[https://www.youtube.com/watch?feature=player_detailpage&v=s9X4eSi42vQ#t=3500][_The Two Types of Writers_]]
+:PROPERTIES:
+:CUSTOM_ID: the-two-types-of-writers
+:END:
+Many of you are already aware of the idea that writers fall into two
+breeds: /gardener/ and /architect/, or /seat-of-pantser/ and /outliner/.
+The gardener throws some ideas in a bowl and lets them react (think
+mad-science chemistry). The architect plans out a story in great detail,
+deciding what will happen long before writing the thing out.
+
+Though writers are not perfectly categorized by these two models, they
+will tend to lean in one direction or another; ultimately, both styles
+/are just tools/. Hypothetically, any writer could make use of either
+technique, but if it doesn't work for you, why bother? Don't feel
+pressured to shove yourself into just one of these. Use either of them
+as they're necessary.
+
+*** Discovery Writing
+:PROPERTIES:
+:CUSTOM_ID: discovery-writing
+:END:
+- Stephen King: “put interesting characters in interesting situations;
+  see what happens.”
+
+- Mary Robinette Kowal: “Yes, But; No, And” method.
+
+  - Start with a person who has a problem.
+
+  - Alright, what happens next? Does it work? *Yes, but...*something
+    else goes wrong.
+
+  - Does what they try to fix the problem work? *No, AND...*it gets
+    worse.
+
+  - Goes on and on in that cycle until the problem is fixed
+
+- Note for everyone: the good stories, mostly, are about *something that
+  goes wrong*. It all starts with a problem. It can be something small
+  (“My deplorable aunt and uncle make me live in the cupboard,” “I was
+  having a nice dinner and then it was ruined by twelve rowdy
+  dwarves...”).
+
+- Discovery writers /tend/ to have better characters (first, because the
+  characters' problems are the writer's problems, so the writer
+  identifies strongly with the characters, and so too does the reader;
+  second, because the characters are not shoehorned into actions they
+  would not reasonably take; and third, because the discovery writer's
+  method depends upon interesting characters doing interesting things).
+
+- Discovery writers /tend/ to have less intricate plots and “awful
+  endings” (since they eventually get to a moment of “and then they
+  solved it,” which isn't satisfying).
+
+- Discovery writers /tend/ to struggle with getting past Chapter
+  Three/the beginning. They'll write a few chapters and then suddenly
+  go, “Oh! /That's/ what this is about!” and feel a need to reset so
+  they can lay the foreshadowing. Then they get to a new Chapter Three
+  and say, “Oh, /now/ I know what it's about” and start all over again.
+
+- /Tend/ is the operative word here, because there are always
+  exceptions, and a great writer will compensate for his/her natural
+  weaknesses. Discovery writers can have flat, boring characters and
+  intricate plots and mind-blowing endings. This is merely a statement
+  of tendency, not a universal law.
+
+*** Outline Writing
+:PROPERTIES:
+:CUSTOM_ID: outline-writing
+:END:
+- Outliner writers /tend/ to have weaker characters because they are
+  prone to ask, “What does the plot require the characters to do here?”
+
+- Outliner writers /tend/ to have solid endings (because they've known
+  the plot the whole time).
+
+- Outliner writers /tend/ to hate revising because, fundamentally,
+  they've written the story twice by the time they reach the end.
+
+*** Points-on-the-Map Writing
+:PROPERTIES:
+:CUSTOM_ID: points-on-the-map-writing
+:END:
+- Mappers start with a decent idea of their ending and their internal
+  conflict, and perhaps a few cool scenes that they want to hit in
+  between. So they start with their idea, Discovery-Write to their first
+  cool scene, Discovery-Write to their next cool scene, and on and on
+  until they reach the finale.
+
+* Session 2: Brainstorming
+:PROPERTIES:
+:CUSTOM_ID: session-2-brainstorming
+:END:
+The really in-depth look at how to midwife your idea into an
+honest-to-goodness no-fooling book.
+
+As before, blue text jumps to the mentioned section.
+
+** [[https://www.youtube.com/watch?v=YMEygwYGxtg&spfreload=10][_Writers Need Multiple Brains_]]
+:PROPERTIES:
+:CUSTOM_ID: writers-need-multiple-brains
+:END:
+English classes will occasionally lapse into an overly-artistic side of
+writing---the “dance through tulips and talk about your feelings” style
+of writing. This is fine, just not for everybody, and it's tough to sell
+it for money. Artistic vision is not super-great at paying the bills.
+
+*You are a craftsperson*: you are trying to /become a person who makes
+good art/ (not just make good art) and you are trying to do that through
+practice over time.
+
+However, *you are also a businessperson*, whose job it is to find a way
+to feed that craftsperson so they can go on dancing through tulips and
+waxing eloquent about the human condition.
+
+The Craftsperson's job is to produce the best available work; the
+Businessperson's job is to exploit that in every way possible.
+
+Which means that when the manuscript is complete, the Businessperson
+smashes the Craftsperson over the head with a blunt object, stuffs their
+body in a closet, and runs away with the manuscript with the express
+intention of making money from it.
+
+** [[https://www.youtube.com/watch?list=PLRO9W1Nmh6clZP-IAhMeMpMru7vJaW7KJ&feature=player_detailpage&v=YMEygwYGxtg#t=293][_Why Form Matters_]]
+:PROPERTIES:
+:CUSTOM_ID: why-form-matters
+:END:
+Sanderson recalls a time from his high school days when he played
+trumpet. He had played it for several years and was at least an adequate
+player---but for his life he couldn't improv. He could hear the licks in
+his head, but couldn't force them through the front of the horn. This
+baffled him for some time, until a teacher ordered him to make his
+scales second-nature. Once he had them mastered, he could improvise much
+more impressively.
+
+Jazz is a magnificently free and improvisational style of music---but it
+is built on a rigid foundation of scales.
+
+** [[https://www.youtube.com/watch?list=PLRO9W1Nmh6clZP-IAhMeMpMru7vJaW7KJ&feature=player_detailpage&v=YMEygwYGxtg#t=422][_Storytelling_]]
+:PROPERTIES:
+:CUSTOM_ID: storytelling
+:END:
+Sanderson breaks his stories down into three primary components: *plot,
+setting, and character*. They are held together by conflict.
+
+“Learning your scales” is simply this: learn what makes an engaging
+plot, an intriguing character, and an interesting setting.
+
+*** Conflict
+:PROPERTIES:
+:CUSTOM_ID: conflict
+:END:
+Why is conflict important? Why does it hold the story together?
+
+- Nobody likes a story where nothing happens. “The king died and then
+  the queen died” is not a story; “the king died and then the queen died
+  of grief” is a story.
+
+- A story is about what /somebody wants/ and /why they can't have it/.
+  Kurt Vonnegut advises, “Have your character start out desperately
+  wanting something, even if it's just a glass of water.” If your
+  character starts out wanting something they can't have, you have
+  /immediate/ sympathy for that character, and an immediate telegraphing
+  to the reader of what's going to happen.
+
+*** Plot
+:PROPERTIES:
+:CUSTOM_ID: plot
+:END:
+Plot is making a series of promises to the reader and fulfilling them in
+unexpected, yet satisfying, ways. Many fledgling writers make the
+mistake of giving the wrong promises---starting off a romance story with
+an action-adventure opening scene, perhaps.
+
+*** Character
+:PROPERTIES:
+:CUSTOM_ID: character
+:END:
+/Usually/ what we are looking for is a relatable character. Occasionally
+you can get away with an unsympathetic, unrelatable character---but it's
+very hard to do and people probably won't like your book.
+
+Your main character doesn't have to be a “good guy.” S/he just needs to
+have a few characteristics:
+
+- Sympathetic (available ways to be sympathetic: be nice, wounded,
+  disadvantaged, idealistic, principled, etc)
+
+- Active (driven to accomplish /something/; this ties back to the
+  character desperately wanting things. “Protagonists gonna protag.”)
+
+- Competence (capable of accomplishing at least a few things)
+
+Two out of three can make for a very strong character.
+
+- Sympathetic + Competent = Bilbo Baggins, surprisingly enough
+
+- Sympathetic + Active = Harry Potter
+
+- Active + Competent = Sherlock Holmes, the Twelfth Doctor
+
+When you shove all three into one character, you get books about how
+awesome the character is. James Bond and Dirk Pitt are good examples:
+they start off being awesome, they solve problems by being awesome, and
+at the end of the book---oh, look, they're awesome. (Seasons 1 and 2 of
+/Legend of Korra/ would be another good example.) These characters can
+be just as boring as characters who have only one of the three.
+
+*** Setting
+:PROPERTIES:
+:CUSTOM_ID: setting
+:END:
+This is just as much a concern for romance and suspense writers as it is
+for sci-fi/fantasy writers: whatever book you're writing, you are going
+to give the reader a sense of your world. You decide the rules of this
+world---for instance, in Jane Austen's work, the underlying rule of the
+world is “The romantic interests end up together.” Setting will probably
+have a significant role in your story's thematic underpinnings; for
+instance, /Django Unchained/ has a major anti-slavery theme, but that
+can only exist if the setting pushes the prevalence of slavery (so that
+the main characters can rebel against the prevalence).
+
+In some stories (notably fantasy and sci-fi), setting is a main
+character; these novelists are concerned with /immersion/. Other stories
+use a lighter brush, giving pride of place to plot and character. It's
+all about choosing what to accomplish.
+
+*** Conflict (Part II)
+:PROPERTIES:
+:CUSTOM_ID: conflict-part-ii
+:END:
+The easy pickings for story is finding a place where you can generate
+friction between two of those three components---or all three. (Usually
+it's going to be between Character and one of the others.) “A heretic in
+a world of believers” is a Character vs. Setting. “The wizard wants me
+to do this but I don't WANNA” is Character vs. Plot. Character vs.
+Character is self-explanatory.
+
+*** Prose
+:PROPERTIES:
+:CUSTOM_ID: prose
+:END:
+One of the significant choices in how you tell your story is what kind
+of prose and style you want to use. These include decisions like:
+
+- Viewpoint (whose head we are in, and how deeply)
+
+- Tense (past/present/future)
+
+- Floweriness (this one is a scale going from
+  “[[http://en.wikipedia.org/wiki/Ernest_Hemingway][_terse_]]” to
+  “[[http://en.wikipedia.org/wiki/Amanda_McKittrick_Ros][_purple_]]”)
+
+** [[https://www.youtube.com/watch?list=PLRO9W1Nmh6clZP-IAhMeMpMru7vJaW7KJ&feature=player_detailpage&v=YMEygwYGxtg#t=1180][_Nailing Your Ideas_]]
+:PROPERTIES:
+:CUSTOM_ID: nailing-your-ideas
+:END:
+A cool idea doesn't make a great story; a great writer makes a great
+story. Still, if you can have your cake /and/ eat it....
+
+Try to have a few story hooks for yourself. Shoot for, perhaps, two
+character hooks, one plot hook, and one setting hook.
+
+Your *plot hook* is deciding what kind of archetype your story will
+align with. Really, you're looking for what's going to change. If you're
+doing a novella, you want just one major change; in novels, you can
+afford to have more. What's your beginning, what's your end, and what's
+going to change? That'll decide your plot.
+
+(For further plot information, try Joseph Booker's Magnificent Seven on
+for size:
+
+- [[http://overcomingthemonster.blogspot.com][_Overcoming the
+  Monster_]]---there's a supernaturally bad baddie out there, and it has
+  a precious prize (like a princess or ancestral sword) and /I need to
+  kill it dead/. cf. the Mario video games, Jack and the Beanstalk
+
+- [[http://ragstorichesplot.blogspot.com][_Rags to Riches_]]---a
+  commoner embarks on a series of adventures, which culminate in their
+  ascension to one of The Elite (and often an opportunity to enact
+  revenge on those who abused them previously). cf. /Cinderella/, the
+  biblical Joseph story
+
+- [[http://thequestplot.blogspot.com][_The Quest_]]---there is something
+  awesome eight bajillion miles away, and I need to get there (/on
+  foot!/). cf. /Treasure Island/, /Lord of the Rings/
+
+- [[http://voyageandreturn.blogspot.com][_Voyage and_ _Return_]]---after
+  falling into a strange and fantastical world, the protagonist attempts
+  to get home, returning as an utterly different person. cf. Digimon,
+  /Neverwhere/, /Alice in Wonderland/
+
+- [[http://comedyplot.blogspot.com][_Comedy_]]---a misunderstanding
+  leads to another misunderstanding, which leads to /another/
+  misunderstanding, which culminates in an /enormous/ misunderstanding,
+  all of which are cleared up in hilarious ways. cf. I don't even know,
+  the page lists a bunch of examples that are older than anyone likely
+  to read this.
+
+- [[http://tragedyplot.blogspot.com][_Tragedy_]]---a character longs for
+  something he /should not have/, and acquires it at a devastating cost.
+  cf. /Lolita/, /Anna Karenina/, /Faust/, /Breaking Bad/
+
+- [[http://rebirthplot.blogspot.com][_Rebirth_]]---a character falls
+  into
+  [[http://tvtropes.org/pmwiki/pmwiki.php/Main/HeroicBSOD][_something
+  like a living death_]] and is brought out by a redeeming, often
+  sacrificial act. cf. /Sleeping Beauty/, /Snow White/, Christianity
+
+These plots can be combined, subverted, inverted, blatantly defied, and
+otherwise messed with in any way you care to try.)
+
+A good strategy for finding a *setting hook* is just to look for
+something fun to play with. Fantasists can get away with a lot here:
+cool religions, cool magic systems, cool technologies, cool biomes, cool
+cultures. Look for something that will make your reader at least mildly
+intrigued by the world's possibilities.
+
+Your *character hook* will boil down largely to what the character
+wants. Look for an interesting desire, or conflict, or past, or
+something like that. Be especially interested in setting them at odds
+with whatever is going to happen to them: Bilbo is interesting because
+he simultaneously wants and /does not want/ to go on an adventure.
+Really, what you're interested in is making your character ripe for lots
+and lots and /lots/ of conflict.
+
+*** [[https://www.youtube.com/watch?v=YMEygwYGxtg#t=1419][_Example Brainstorming (Broad)_]]
+:PROPERTIES:
+:CUSTOM_ID: example-brainstorming-broad
+:END:
+During this segment (which goes from about 24:00 until about 42:00),
+Sanderson demonstrates how he would construct character, plot, and
+setting hooks, given characters his class dreams up. Very interesting
+demonstration and worth watching, but difficult and time-consuming to
+relay via text.
+
+*** [[https://www.youtube.com/watch?list=PLRO9W1Nmh6clZP-IAhMeMpMru7vJaW7KJ&feature=player_detailpage&v=YMEygwYGxtg#t=2550][_Example Brainstorming (Narrowed)_]]
+:PROPERTIES:
+:CUSTOM_ID: example-brainstorming-narrowed
+:END:
+This is a /swift/ overview of plot (since there's a problem with
+assigning a novella-writing project and talking about plot in Week 5).
+Sanderson takes one specific idea from the previous segment and develops
+the story out loud. Like the last segment, very interesting and worth
+the time it would take to watch, but not the time it would take to
+notate. A few broad and remarkable bits of advice:
+
+- If your story involves a cliche, /make your story about something
+  else/. You can afford to have a cliche if it's in the background.
+
+- Focus on something you haven't seen done before, or something you have
+  seen done but done in a different way.
+
+- Look for what promise you want to fulfill at the end. Sanderson builds
+  his stories backward: he looks first for what great ending he wants to
+  have, and then knows what promises to make at the beginning.
+
+- After determining the most interesting ending, figure out what breed
+  of story it is. A Big Problem? A Relationship? A Mystery? These will
+  determine the major complications. (cf.
+  [[http://www.writingexcuses.com/season-archives/season-elevens-table-of-elements/][_Elemental
+  Genres, from Writing Excuses_]]).
+
+- After determining the type of story, Sanderson picks the setting, and
+  then the genre.
+
+* Session 3: Prose I---Style, Viewpoint, and Infodumps
+:PROPERTIES:
+:CUSTOM_ID: session-3-prose-istyle-viewpoint-and-infodumps
+:END:
+Mostly concerned with some nuts-and-bolts things, up to and including:
+viewpoint, infodumping, and learning curves.
+
+** [[https://www.youtube.com/watch?v=QV_C2keTFIs#t=52][_Prose and Style_]]
+:PROPERTIES:
+:CUSTOM_ID: prose-and-style
+:END:
+When folks pick up your book, they are going to notice your /prose/
+first. They judge whether they keep reading based /almost entirely/ on
+that. They'll get a little bit of character, setting, and plot from your
+first few pages, but it's all getting filtered through the lens of your
+prose. If you have a great book that can't grab readers in the first
+five pages, you're going to have a /much/ more difficult time selling
+your book.
+
+So get really, really good at that.
+
+** [[https://www.youtube.com/watch?list=PLRO9W1Nmh6clZP-IAhMeMpMru7vJaW7KJ&feature=player_detailpage&v=QV_C2keTFIs#t=264][_Learning Curves_]]
+:PROPERTIES:
+:CUSTOM_ID: learning-curves
+:END:
+Every story will have a learning curve---how much the reader has to
+figure out before gaining “competence” in the book. Consider: how high
+does it go, and how fast does it get there? How fast can someone be
+brought up to speed?
+
+A story with familiar characters, settings, and plots will have a
+shallow, easy learning curve. The more outlandish the story, the steeper
+the learning curve. What /you/ need to do is figure out what your
+learning curve is and how to make it easy on your audience. What you
+/don't/ want is readers slamming into a brick wall of worldbuilding.
+Remember that 50-page essay on hobbit culture at the beginning of
+/Fellowship/? Yeah, neither does anyone else, except to mention how
+dreadful it is.
+
+*** Techniques for Lowering the Curve:
+:PROPERTIES:
+:CUSTOM_ID: techniques-for-lowering-the-curve
+:END:
+- Introduce a character who is just as confused as the readers, and
+  needs things explained to them
+
+- Limit your viewpoints (giving the reader an anchoring viewpoint that
+  stays consistent despite a totally crazy, unpredictable world)
+
+- Start with an event readers will recognize innately
+
+- Twist a familiar detail (clocks striking thirteen in /1984/)
+
+The more your reader trusts you, the more you can get away with a steep
+learning curve. If you select a steep one, try to ground the reader in
+something else as quickly as you can---usually characters.
+
+*Note:* query letters should have the *shallowest learning curve ever*.
+If you're explaining the intricacies of your magic system in a query
+letter, that letter's prognosis is Not Good.
+
+** [[https://www.youtube.com/watch?v=QV_C2keTFIs#t=1165][_Viewpoints_]]
+:PROPERTIES:
+:CUSTOM_ID: viewpoints
+:END:
+Mastery of viewpoints, as a genre fiction writer, is one of the things
+that will sell your book in /two pages/. It's the skill barometer for
+writers. If you asked a pianist to demonstrate their skill, you would
+quickly know whether they're crap or not, irrespective of your own piano
+experience. /Readers can do that with you/, and editors do it even
+better, and it depends mostly on viewpoint.
+
+*** Three Basic Viewpoints
+:PROPERTIES:
+:CUSTOM_ID: three-basic-viewpoints
+:END:
+First Person
+
+- Pros
+
+  - Develops a great deal of intimacy between the reader and the
+    protagonist, and does it /right quick/
+
+  - More freedom to be untrustworthy
+
+  - Excellent for characterizing the speaker
+
+  - Easier infodumps (in voice)---you can get away with a huge glut of
+    information if your viewpoint character is hilarious or otherwise
+    intriguing
+
+  - Feels a little like dialogue (which readers engage with easily; they
+    /love/ long stretches of dialogue-dialogue-dialogue, whereas
+    dialogue-long paragraph-dialogue will make them stumble)
+
+- Cons
+
+  - Harder to do multiple viewpoint characters
+
+  - Hard to do dramatic irony (in which the reader knows something
+    significant, but the protagonist doesn't); “if they don't know it,
+    you can't show it”
+
+  - Implies that the main/viewpoint character is guaranteed to survive
+    (and doing the “narrator was dead all along” doesn't surprise
+    readers as much as you might think)
+
+- Notes
+
+  - More or less the default for teen stories these days
+
+Third Person (Limited)
+
+- Pros
+
+  - Better at multiple viewpoint characters
+
+  - More trustworthy character
+
+  - More freedom to kill the character (doesn't come off kitschy)
+
+  - Greater leeway in authorial voice (you're not chained to the main
+    character's voice)
+
+  - Greater leeway with dramatic irony/secrets the reader knows and the
+    character doesn't
+
+  - Able to generate multiple perspectives on one character
+
+- Cons
+
+  - Harder to force reader to identify with character (there's a /very/
+    good reason why /Lolita/ is written in first person)
+
+  - Harder to do infodumps/easier to make the infodumps suck
+
+- Notes
+
+  - Default for “grown-up” books
+
+  - Get across the name of the not-quite-viewpoint character /quickly./
+    Editors /hate/ when you do 3PL without a named protagonist. DON'T DO
+    IT unless you've got a great reason.
+
+  - Try to stick inside that character's head pretty closely---that is,
+    don't show what the character doesn't see
+
+Omniscient
+
+- Pros
+
+  - Lots of leeway with foreshadowing
+
+  - Can integrate things from first and third
+
+- Cons
+
+  - Difficult to do right---it's easy to confuse readers
+
+  - /Much/ harder to form relationships with the characters (because
+    readers often bond with the one telling the story)
+
+  - Makes it feel too much like a book
+
+  - Really it's just freaking difficult to pull this off without
+    annoying the readers
+
+- Notes
+
+  - In everyone's heads at once and sees the future; you get a sense
+    that /someone/ is telling the story to you
+
+  - Often has a present narrator, though there are some that don't use
+    it
+
+  - Has fallen significantly out of favor; /Jonathan Strange and Mr.
+    Norrell/ is probably the best-known recent one
+
+** [[https://www.youtube.com/watch?feature=player_detailpage&v=QV_C2keTFIs#t=3193][_Variations_]]
+:PROPERTIES:
+:CUSTOM_ID: variations
+:END:
+*** Hybrid
+:PROPERTIES:
+:CUSTOM_ID: hybrid
+:END:
+Mixing third and first. Check out the /Bartimaeus/ Sequence from
+Jonathan Stroud for an example.
+
+*** Epistolary
+:PROPERTIES:
+:CUSTOM_ID: epistolary
+:END:
+A story told by way of letters. /Dracula/, /The Prestige/, and
+/Screwtape Letters/ are written in this form.
+
+*** Journal/Memoir
+:PROPERTIES:
+:CUSTOM_ID: journalmemoir
+:END:
+A character reflects on previous experiences (usually in first person).
+The Kingkiller Chronicle, /Assassin's Apprentice,/ and /Perks of Being a
+Wallflower/ are all written this way.
+
+*** Cinematic First Person
+:PROPERTIES:
+:CUSTOM_ID: cinematic-first-person
+:END:
+Often present-tense/immediate, like a camera on the shoulder of the
+narrator (which happens to have a chip that can hear the character's
+thoughts). /Hunger Games/ and /Divergent/ use this---it's more or less
+the default for YA books, particularly dystopian/post-apocalyptic
+strong-female-fighting-a-corrupt-system stories (though that's just what
+YA is right now, really). Truthfully, it's a third-person that happens
+to use /I/ instead of /s/he/.
+
+*** Committed Third
+:PROPERTIES:
+:CUSTOM_ID: committed-third
+:END:
+Stays in /just one/ character's head for a whole chapter, but may swap
+them out next chapter. A Song of Ice and Fire is the most popular recent
+example.
+
+*** Loose Third
+:PROPERTIES:
+:CUSTOM_ID: loose-third
+:END:
+Can have multiple character viewpoints in a chapter, though they're
+often separated by line breaks.
+
+** [[https://www.youtube.com/watch?feature=player_detailpage&v=QV_C2keTFIs#t=3594][_Tense_]]
+:PROPERTIES:
+:CUSTOM_ID: tense
+:END:
+Common wisdom is that present is a more immediate tense, but you get
+acclimated to that immediacy pretty quick. It's unlikely readers will
+notice these after the first chapter unless you switch back and forth
+(which isn't advised unless you've got a real good reason).
+
+Note: if you're doing a Journal/Memoir sort of story, tense could be
+weird---for instance, if you bring in a character whose status doesn't
+change by the end of the story, do you say, “John was my good buddy” or
+“John is my good buddy”? Stick to the past tense; it's easier for
+everyone, even if it's not /technically/ correct.
+
+** [[https://www.youtube.com/watch?feature=player_detailpage&v=QV_C2keTFIs#t=3780][_Infodumps_]]
+:PROPERTIES:
+:CUSTOM_ID: infodumps
+:END:
+Your job as a writer is to convey information in an interesting way,
+such that the worldbuilding is an enhancement instead of a hindrance.
+This is difficult. Do /not/ stop for a paragraph to deliver an essay on
+hobbit culture; it's no longer acceptable.
+
+The trick is to communicate your world smoothly and naturally.
+
+Tricks for infodumping:
+
+- *Use dialogue.* Readers /love/ dialogue because there's so much white
+  space and it's easy to read. However, *avoid maid & butler:* when two
+  characters stand around expositing for /no good reason/ except to
+  communicate things to the audience. If you're using “as you know,”
+  it's likely to feel very awkward.
+
+- *Use Watson*, a sideline character who needs educating, or *Alice*, a
+  protagonist who's brand new to the world; both can feasibly say “Wait,
+  what?” in the reader's place.
+
+- *Show, don't tell.* If you want to tell the reader that the world is
+  controlled by finicky politics, open with a grand debate about the
+  price of cheese; if you want the reader to know that the gods are
+  heavily involved with the world, open with the character dodging a
+  lightning bolt and saying, “I should /not/ have said his name in
+  vain!” Internalize that. Vonnegut advised, “There are three things to
+  do in your writing: evoke setting, advance action, or evoke character.
+  Every line ought to do two of those, three if it can.”
+  ([[http://www.ted.com/talks/andrew_stanton_the_clues_to_a_great_story?language=en][_The
+  audience wants to work for its lunch._]]) Sanderson advises getting
+  *really really good* at this. Like love, it can cover a multitude of
+  wrongs.
+
+* Session 4: Plot I---Promises and Progress
+:PROPERTIES:
+:CUSTOM_ID: session-4-plot-ipromises-and-progress
+:END:
+This is a groundwork session about plot, focusing primarily on the need
+to be honest with your reader, the benefits of knowing where your story
+is going, and why you don't need to be jealous of other people's plots.
+
+** Q&A
+:PROPERTIES:
+:CUSTOM_ID: qa
+:END:
+Questions asked by students, and more-or-less transcribed here.
+
+- *How do you come up with really crazy brilliant ideas?\\
+  \\
+  *My strength as a writer comes from a love of stories. When I see an
+  idea and think /that could have been awesome/ my next thought is /how
+  could I make it awesome?\\
+  /
+
+- *How do I balance /keeping the reader informed/ with /maintaining
+  necessary secrets/? My writing group keeps sending me questions that I
+  can't answer without giving things away.*\\
+  \\
+  What that might mean is you're not adequately explaining character
+  motivations. (It's hard to diagnose without seeing the story in front
+  of me.) It sounds like they don't understand why the characters are
+  behaving in the way they are. It's /very important/ to make character
+  motivations very clear to the reader. Be intentional when you've got a
+  character whose motivations are shifting (as with Bilbo, whose
+  priorities shift from “I want to have dinner” to “I want to have an
+  adventure!”).
+
+- *I'm struggling with getting natural-sounding dialogue. My
+  conversations are starting to move the plot instead of being
+  natural.\\
+  \\
+  *Maybe this is a point where you want to practice doing things
+  intentionally. Analyze dialogue, particularly in movies and everyday
+  conversation. Ask, “Why does this feel natural? How does this advance
+  the plot and express character while sounding natural?” Maybe try
+  free-writing the characters talking so you can get their voices in
+  your head, and then try rewriting the scene that's tripping you up.
+
+- *What are some things you do, when you're kind of losing momentum, to
+  get you to fall back in love with the story?*\\
+  \\
+  Oh boy. Excellent question. When I get interrupted while writing one
+  book, I lose all my momentum. This is a serious issue. I've tried a
+  number of strategies. One thing I try is doing a revision on what I've
+  already got. Sometimes I'll skip chapters (which I very rarely do) to
+  get to a climactic moment instead of doing the set-up moments
+  beforehand, and this works very very well for me. Adding a new
+  character and writing a scene from their eyes can do it. Writing a
+  short piece in that world can do it. Try a few of those and see if
+  they help.
+
+- *Is there a way to use cliches properly? How do you do that?\\
+  *\\
+  Depends. There are multiple ways to use cliches properly. Avoid the
+  cliche turns-of-phrase as much as you avoid using synonyms for “said”
+  (which is darn near the last thing you want to do). Cliched prose is
+  the second-to-last thing you want, right before writing that is so
+  hopelessly, frantically creative that readers vomit.\\
+  \\
+  If you're talking about cliches in a more of archetype sense,
+  well...let's look at this. When Rowling wrote /Harry Potter/,
+  boy-goes-to-wizard-school was /very much/ a cliche, but she made it
+  her own and got away with it. Cliches in SFF (like the farmboy who
+  saves the world, the grizzled veteran with a heart of gold, the
+  elemental magic system) are occasionally unavoidable; the question is,
+  how do you make it your own? What you want is an /understandable
+  archetype/ rather than a /wearied and overused stereotype/.\\
+  \\
+  Another way to do this is subverted tropes, where you use a cliche and
+  turn it on its head. Be /very careful/ with this. If you dally too
+  long with this cliche---let me share a story with you. My first book,
+  /Elantris/, came out around the same time another guy's book came out.
+  Mine did well, his didn't so much, and we were talking about it later
+  and he wondered, “I just don't understand why mine did so poorly.” I'd
+  read a bit of it and I said, “Well, to be honest, and not trying to
+  offend you, but your book felt really cliched.” To which he said, “Oh!
+  You just didn't get far enough.” And he explained about how he
+  subverts every single one of those tropes. And it's really awesome!
+  But the problem is that all the people who are looking for a standard
+  classic fantasy with all the tropes will be disappointed by the
+  ending. And the people who are looking for not-familiar fantasies will
+  put it down before they get to the cool parts! So be careful with
+  subverted tropes. They're tricky.
+
+** [[https://www.youtube.com/watch?v=65dYBcocFQE#t=1149][_Plot_]]
+:PROPERTIES:
+:CUSTOM_ID: plot-1
+:END:
+“Plot seems to come down to two primary concepts to me. The first is the
+idea of /promises/; the second is the idea of a /sense of progress/.”
+
+*** Promises
+:PROPERTIES:
+:CUSTOM_ID: promises
+:END:
+A good book is really a series of promises and their (usually)
+unexpected and (mandatorily) satisfying fulfillments. The balance
+between how expected and unexpected the story is depends on the genre
+and your own goals as a storyteller.
+
+For instance, the regency romances (which are still being written) are
+not concerned with unexpected fulfillments. In the first few pages, a
+Jane Austen book promises that it will involve a strong romantic plot
+/with resolution/, that it will (probably) have a significant female
+viewpoint, that it will be rather witty, and that you will know within
+50 pages who'll be getting hitched at the end. The readers /desire/ an
+unsurprising resolution.
+
+For other readers in other genres, those unsurprising resolutions are
+less important. The readers of /A Song of Ice and Fire/ (/Game of
+Thrones/ to the TV-watchers here) are addicted to the no-holds-barred
+anybody-can-die I-don't-remember-making-no-promises style of
+storytelling that series gives them. It's a continuum between expected
+and unexpected, and, so long as you're honest about what kind of book
+you're writing, /neither of those is bad/.
+
+You want to start making these promises /on page one/ if possible.
+
+*** Sense of Progress
+:PROPERTIES:
+:CUSTOM_ID: sense-of-progress
+:END:
+“But isn't it real progress?” Well, no. When you're writing the book,
+you have /absolute control/ over the book. You can make one second of
+story-time last 500 pages. (It's not recommended, but it's possible.) Or
+you can pass a million years in like three words. So you can squeeze or
+expand basically anything. What readers want is a /sense/ of movement
+toward the fulfillment of the promises you've made. You're assuring
+them, “Motion is happening. We /are/ moving forward.”
+
+If, for instance, you introduce a plot with a tremendous
+things-will-explode promise and then spend 50 pages on a really
+interesting romance, /no matter how cool the romance is/ the readers
+will feel like things are meandering. You really just don't want to let
+your promises get out of sight too easily.
+
+** [[https://www.youtube.com/watch?v=65dYBcocFQE#t=1706][_Tools to Streamline a Plot_]]
+:PROPERTIES:
+:CUSTOM_ID: tools-to-streamline-a-plot
+:END:
+There are a /bajillion/ of these, but these are probably the most
+popular. You can think of them as training wheels if you want.
+
+*** Student Beware!
+:PROPERTIES:
+:CUSTOM_ID: student-beware
+:END:
+*These are not checklists.* The danger is looking at them and feeling
+like you're /required/ to follow the patterns described. Scholars came
+up with these based on /hundreds/ of stories, but every story does not
+/necessarily/ follow them. Fundamentally, *they are descriptive, not
+prescriptive.* Follow these too religiously and you will rip the soul
+right out of the story.
+
+You are permitted to use these /if you want/. But you are not required
+to put them in there.
+
+*** Three-Act Format
+:PROPERTIES:
+:CUSTOM_ID: three-act-format
+:END:
+This helps you know, more or less, when to introduce big changes in your
+story.
+
+- Act One: sets up who the characters are and what the problems are.
+  Usually 25% of the book.
+
+- Act Two: deals with the problems, and probably ends with the hero in
+  desperate straits. Often 50%+.
+
+- Act Three: resolves the problems. Often 25% or less.
+
+Simply stated, in Act One the character climbs a tree; in Act Two you
+throw rocks at them; in Act Three they get out of the tree.
+
+The idea here is to break the story up into three pieces, so you can
+work on them individually. Note that this is a very Western format.
+
+“I don't use 3-Act,” says Sanderson. “I like what it does, it's a great
+tool. It just doesn't come naturally to me. It works very well for film;
+it works not-as-well for epic fantasy.”
+
+*** The Hero's Journey
+:PROPERTIES:
+:CUSTOM_ID: the-heros-journey
+:END:
+Gives story beats for the progression of the story.
+
+1. Object-at-rest: the Hero is at home, doing nothing much.
+
+2. Call #1: the Hero is summoned. He usually refuses.
+
+3. Call #2: the Hero is summoned. He can no longer refuse.
+
+4. Journey Begins: what it says on the tin.
+
+5. Loss of Mentor: crap is now real.
+
+6. Descent into Underworld: crap is now realer.
+
+7. Confront the Evil Within Themselves: crap is now THE REALEST.
+
+8. Apotheosis/Everything Comes Together: often using skills learned
+   between steps 4 and 5, the Hero succeeds in his goal.
+
+9. Return Home (Upgraded): in the falling action, the Hero comes home
+   having defeated the Bad Guy---but, more notably, having defeated the
+   Bad Guy *in himself*.
+
+This is handy for several reasons. One, it gives you a roadmap (“What do
+I do now? Oh, I guess it's Underworld Descent time...”) and two, it
+gives a handy cheat sheet for what readers expect from their stories.
+
+*** Scene/Sequel
+:PROPERTIES:
+:CUSTOM_ID: scenesequel
+:END:
+A simple, direct plotting method based around “Yes, But, No, And.”
+
+*Yes,* life is good, *but* my cat is suddenly missing. *Solution:* I go
+to the pound. *No,* the cat's not there, *and* I accidentally set free
+all the other animals. *Solution:* I seek out an animal catcher. *Yes,*
+the catcher caught the cat, *but* it's actually an evil cat bounty
+hunter and they already sold the cat for glue!
+
+You're forcing yourself to escalate your story. It forces you to create
+more conflict /and/ to give a sense of progression. Basically, it's a
+more developed version of Fortunately/Unfortunately. (This might
+actually be a great development of that game, by the way: introduce a
+problem, next person introduces a solution, next person gives a *Yes,
+But* and so on.)
+
+** [[https://www.youtube.com/watch?v=65dYBcocFQE#t=2696][_Plotting Methods_]]
+:PROPERTIES:
+:CUSTOM_ID: plotting-methods
+:END:
+First, let's dig further into Promises/Progress. Every type of story
+will have different Promises and, significantly, different ways to give
+the impression of Progress. For instance:
+
+*Mystery*
+
+- A plot /about/ information
+
+- Sense of progress derives from clues/released information
+
+*Relationship*
+
+- A plot /about/ people learning to like each other (falling in love or
+  falling in friendship)
+
+- Sense of progress derives from moments together/changes in the
+  relationship
+
+*Travelogue*
+
+- A plot /about/ a journey toward a particular destination
+
+- Sense of progress derives from a literal progression toward a
+  destination
+
+*Internal Conflict*
+
+- A plot /about/ a character's necessary change (becoming braver,
+  becoming kinder, becoming worthy of another person)
+
+- Sense of progress derives from character's different actions/reactions
+
+- NB: You can fit this type of story into darn near any other story;
+  some philosophies of storytelling will tell you you /have/ to put it
+  in everything
+
+*** Plotting by Brackets
+:PROPERTIES:
+:CUSTOM_ID: plotting-by-brackets
+:END:
+You can think of your story as a series of nested brackets, a little
+like this:
+
+[[[---[--]----[---]-----]]]
+
+Each bracket represents a conflict of varying size. The biggest, as you
+can see, is introduced at the beginning of the story and resolved by the
+end---in fact, that's how readers decide that the story is over: whether
+that “huge bracket” has been closed. The middle of the story may involve
+some smaller conflicts to keep things moving, but really the readers are
+there to find out how the major brackets get closed.
+
+Any of those bracket-pairings can be any of the previously mentioned
+plot types. So the major brackets can be a *Mystery* plot, and the
+secondary brackets a *Relationship* plot. This can work well provided
+you don't get your wires crossed.
+
+** [[https://www.youtube.com/watch?v=65dYBcocFQE#t=3509][_The Strange Attractor_]]
+:PROPERTIES:
+:CUSTOM_ID: the-strange-attractor
+:END:
+All stories will, to some degree, mix the familiar and the unfamiliar.
+The familiar grounds the reader, giving them something to hang onto; the
+unfamiliar, though, is why they're coming to the story in the first
+place. SFF writers, for instance, can get away with somewhat tired plots
+because the /unfamiliar/ of their story is taken care of in their
+setting; a well-made SFF world can pull in readers even if the plot is a
+bit hackneyed.
+
+Further notes on this idea located
+[[http://www.wordplayer.com/columns/wp02.Strange.Attractor.html][_here_]].
+
+** [[https://www.youtube.com/watch?v=65dYBcocFQE#t=3565][_Concerning Plot Envy_]]
+:PROPERTIES:
+:CUSTOM_ID: concerning-plot-envy
+:END:
+Writers will inevitably be jealous of each others' skills. A friend of
+Sanderson's once admitted that she envies how well he can create eight
+bajillion plot threads in the beginning and tie all of them together by
+the end, while her books tend to be “I really wish that I were married
+[insert 95% of book] OH I'M MARRIED.” The thing is, though, her books
+are still fantastic.
+
+If you are making promises and /keeping them/, your book can still be a
+delight to read. There's nothing at all wrong with making a simple,
+honest, “these people are going to meet and fall in love” promise and
+keeping it. There's a sense, sometimes, that we have to do something
+unexpected /just to be unexpected/, but *this isn't the case*.
+
+If you're making huge promises about, say, a mystery and then produce an
+answer that's not satisfying---either because it's unexpected, or
+because it's /too/ unexpected---then your audience will be /severely
+annoyed with you/. (Looking at you, LOST.)
+
+** [[https://www.youtube.com/watch?v=65dYBcocFQE#t=3802][_You Are a Stage Magician_]]
+:PROPERTIES:
+:CUSTOM_ID: you-are-a-stage-magician
+:END:
+Take as an example /Lord of the Rings/: at the end of the story, Frodo
+suddenly decides he's going to keep the Ring. This is unexpected because
+we've been focusing on the BIG brackets---the journey Frodo has to take
+to throw the Ring in the hole. But another bracket-pair has been nested
+inside that bigger story all along: Frodo's slow and inevitable
+corruption.
+
+One of the things we're trying to do is hold up an idea and say, “Look
+at the monkey! Look at the monkey!” while we're palming something in our
+other hand. It's all about redirecting someone else's focus. (For more
+on the idea of redirecting focus, check out
+[[https://www.youtube.com/watch?v=GZGY0wPAnus][_this great TED talk_]].)
+
+** [[https://www.youtube.com/watch?v=65dYBcocFQE#t=3973][_How to Make a Book Guide_]]
+:PROPERTIES:
+:CUSTOM_ID: how-to-make-a-book-guide
+:END:
+Sanderson writes a book guide before starting any new book. The main
+concerns are:
+
+- What promises am I making (about the style of story and what will
+  happen at the end)?
+
+- What kind of story is this?
+
+- How will I give a sense of progress?
+
+- How will my resolution fulfill /all/ the promises that need to be
+  fulfilled /in this story/?
+
+A “book guide” starts by identifying what kinds of plots will be
+happening inside the book. What are your “big brackets”? What are the
+secondary brackets, the tertiary brackets, etc.? (Note that there will
+be small brackets chapter-by-chapter; this focuses on the big things.)
+His outlines are really just lists of goals and wrenches that will be
+thrown into those goals. Each chapter, he simply combines several of the
+bullet points, such that each chapter advances a few of the main goals.
+
+(NB: this is a /very/ similar method to
+[[http://blog.paperblanks.com/wp-content/uploads/2013/05/JK-Rowlings-Phoenix-Plot-Outline.jpg][_Rowling's
+style of outlining_]], which happens on a grid: the /x/ axis is each of
+the main plots, and the /y/ axis is chapter-by-chapter. The two main
+plot concerns, in columns 4 and 5, are advanced almost every chapter,
+while the plots to the right of column 5 occasionally have blank spots
+in the graph.)
+
+* Session 5: Character I---Likable, Active, Competent
+:PROPERTIES:
+:CUSTOM_ID: session-5-character-ilikable-active-competent
+:END:
+** Q&A: Plot
+:PROPERTIES:
+:CUSTOM_ID: qa-plot
+:END:
+Some Q&A with Brandon Sanderson.
+
+- *How do you pace a chapter properly?\\
+  \\
+  *Writing a book, for /most/ of us, is about taking something large and
+  breaking it into smaller and smaller pieces. One of those pieces is a
+  chapter. A good chapter will have some of the same feel as a great
+  book has, in that you have a beginning, middle, and end. You're
+  familiar with the sort of “rising action” idea: sometimes, you'll want
+  to end your chapter right at the height of the action. Other times
+  you'll end it with a small resolution.\\
+  \\
+  If you chop things in the middle, things will be sort of jerky, very
+  exciting. If you end on the resolution, things will be much smoother.
+  Thrillers will be structured so they always break in the middle, then
+  close that, then immediately open another problem and break in the
+  middle. It drags readers along by the nose, which can be very very
+  fatiguing. Readers never get to relax. Chapters that sort of wrap up
+  at the end will feel more elegant, almost.\\
+  \\
+  (This works for paragraphs, too. Short, choppy, two-sentence
+  paragraphs will have a yanking kind of feeling, whereas long
+  paragraphs have a slower sort of movement.)\\
+  \\
+  Those are really two extremes. You can fall in the middle if you want.
+  But every chapter, usually, should be introducing problems and then
+  dealing with them. This relates to the Try-Fail cycle, where you
+  introduce a problem and the hero tries something /intelligent/ and
+  /reasonable/. This fails (usually twice) and then finally succeeds.\\
+  \\
+  Really, just decide what your chapter is trying to achieve. Probably
+  it should have its own problems, but it should also keep the larger
+  ending in sight./\\
+  /
+
+- *What's an easy way to do, like, a “proof of concept” of a novel
+  before you put time and energy into something that might actually
+  suck?*\\
+  \\
+  If you are a new writer, it most likely /is/ going to suck. The only
+  way to make it not suck is to let it suck first, until you get good
+  enough to write things that don't suck. In that case, it doesn't
+  /matter/ what you're writing, as long as you're excited about it.\\
+  \\
+  What I think you're also asking is, “Okay, Brandon, you've said that
+  ideas are cheap and what I really need is practice, but /some ideas
+  are definitely better than others/.” The problem here is that it's so
+  individual to you that I can't actually tell you what might end up not
+  working for you. You've got to learn your own process well enough that
+  you can tell what will or will not work for you. A discovery-writer
+  will have to write into the story to find out if they care about it.
+  An outline-writer needs something exciting to write toward.\\
+  \\
+  Anything you write, you're going to say, “Wow, this is not very good
+  yet.” But what you really need here is to hone your skills, get your
+  fundamentals down, learn your scales, and you'll be able to make the
+  things you want to make. ([[http://vimeo.com/85040589][*_Extremely
+  relevant video._*]])\\
+  \\
+  I do want to note that sometimes it is going to be a slog no matter
+  what you write, and you have to push through anyway. It's not all
+  sunshine and dancing with unicorns.
+
+- *My wife and I need to vocalize things in order to figure out what our
+  books are really about. Do you do that? Do you ever try different
+  methods like that?\\
+  \\
+  *Um---erm, no. I'm very solitary in my writing. The collaborative
+  writing thing is not something I do a lot of. A lot of writers do it
+  and love it a lot. Different processes work for different people. Use
+  what works for you. If it makes you write good stuff you enjoy
+  writing, then it's working.
+
+- *In this class we're writing sort of chapter-by-chapter and then
+  having people read it. Do you recommend that for normal
+  book-writing?*\\
+  \\
+  Mostly, I'd suggest finishing a book before you workshop it. It's not
+  a hard-and-fast rule. For a lot of writers, getting something
+  critiqued while you're writing it will discourage you way too much.
+  There's also the danger that your writing group will say “Wouldn't it
+  be awesome if?” and then suddenly it's a completely different book.
+
+- *I'm trying to make a believable, historically-viable magic system,
+  and...[goes on for some time without actually asking a question].\\
+  *\\
+  We'll talk about magic systems next week, but for right now, let's go
+  back to what I said earlier: writing is basically being a stage
+  magician. With worldbuilding, you can do what Tolkien did and spend 20
+  years. That's perfectly legit. But if the book doesn't demand that,
+  that's fine too. Either way you want your worldbuilding to have a sort
+  of “iceberg” feel to it. You want to indicate to your reader that you
+  know all of this other stuff---but you don't want to throw the entire
+  iceberg at them. In epic fantasy, you want to imply you've got a
+  /whole lot of iceberg/ even if there's not a lot underneath the
+  surface. In things like a Michael Crichton book, readers aren't
+  looking for a big iceberg. They're actually looking for a very small
+  iceberg, that's just what they want.\\
+  \\
+  I do want to bring up that the small, concrete detail matters /way/
+  more than a page of description in a lot of places. Think about
+  someone who knows a lot about horses and is talking about horses and
+  boil that down to one line. Compare that to what someone who /doesn't/
+  know a lot about horses would say. If your character talks and thinks
+  like an expert, you will give a sense that things are very real. Also
+  think about how people legitimately talk. For instance, no scientist
+  every /really/ says “Let's go do some physics!” In the same way, no
+  false-world mage would say, “Let's go do some magic.”
+
+** [[https://www.youtube.com/watch?v=zZy5KoGqIvs#t=1151][_Character_]]
+:PROPERTIES:
+:CUSTOM_ID: character-1
+:END:
+Arguably the most important part of the story in most genres. There
+/are/ genres where the character is a little bit secondary to the plot,
+and it's also arguable that fantasy/scifi is distinguished by its
+worldbuilding. However, great worldbuilding will not make up for utterly
+bland characters. It's /very important/ to make the characters
+compelling.
+
+Recall from an earlier lecture the three qualities that readers often
+enjoy in characters:
+
+- Active
+
+- Competent
+
+- Likable
+
+As already stated, two out of three will suffice to make a compelling
+character; in the first chapter, you can even get away with only giving
+the character /one/ of those things. The Hero's Journey, for instance,
+will often start off with someone who is /just/ *likable*; they get to
+be competent and/or active later on (Bilbo is a great example). Another
+popular option is to start off with nothing but *active* (Indiana Jones,
+for instance, doesn't immediately communicate his likableness or
+competence, but dang if he isn't active). James Bond movies round out
+the trio by introducing a ridiculously *competent* character.
+
+*** Likable
+:PROPERTIES:
+:CUSTOM_ID: likable
+:END:
+Likeability is increased tremendously by relatability. A character with
+goals, struggles, passions, fears, and failures that readers recognize
+and resonate with becomes almost instantly likable.
+
+Another swift way of establishing likability: display a valued trait in
+the character. Everyday human kindness endears characters very quickly
+(cf. [[http://tvtropes.org/pmwiki/pmwiki.php/Main/PetTheDog][_Pet the
+Dog_]]). On that canine note, readers /love/ the underdog. A character
+who gets picked on becomes lovable.
+
+Perhaps the most interesting thing: readers will quickly develop
+affection for characters who already have /friends/.
+
+*** Active
+:PROPERTIES:
+:CUSTOM_ID: active
+:END:
+Consider the Villain Problem, a recurring issue in stories based off the
+Hero's Journey:
+
+#+begin_quote
+*“If the Villain hadn't come along, this Hero would never have done
+/anything/.”*
+
+#+end_quote
+
+Readers sympathize with characters who /do things/. If the villain of
+your book is the most active person onstage, readers will start liking
+the villain way more than they like the hero. (This is only bad if
+you're doing it without meaning to.)
+
+The other big issue is that if you use plot structures like the Hero's
+Journey, at the beginning the hero /does not want/ to protag. We like
+reluctant heroes (because, of course, it's relatable). And if the hero
+starts off being reluctant, it's that much more dramatic when his
+character development makes him /super excited/ to do heroic things.
+
+So...why is an active character so appealing, if we find reluctance
+relatable? First of all, because /crap gets done/. Active characters
+keep things from getting boring; they advance the progress of the story.
+Activity also makes the character admirable; we like reading about
+driven people.
+
+Ultimately, it's based in this: *in every character we like, we see a
+mixture of who we are and who we want to be.* (This brings up something
+valuable about villains: well-drawn villains often have a little bit of
+us inside them.)
+
+Often, newbie authors /suck/ at active characters. But it doesn't have
+to be rocket science. Making an active character can be as simple as
+studying for a test or as weird as collecting the last figurine in his
+expansive and eclectic collection. (Bear in mind that a character does
+not have to be /good/ at their passion for them to come across as
+active. They just need to be /doing something/.)
+
+*** Competent
+:PROPERTIES:
+:CUSTOM_ID: competent
+:END:
+Sanderson doesn't go into this much at all in this lecture, but in
+previous years spends a lot of time talking about how readers love it
+when characters are *good at stuff*. Flynn Rider is good at two things:
+(1) stealing things and (2) cracking wise. This endears him to us
+despite the fact that he's arrogant, callous, untrustworthy,
+manipulative, and traitorous. You wouldn't want to be friends with Flynn
+Rider, but you /love/ watching him do cool stuff.
+
+Many of the characters we love are preternaturally good at one or two
+particular things. Hermione is Preternaturally Intelligent; Samwise
+Gamgee is Preternaturally Loyal; Katniss Everdeen is Preternaturally
+Gritty.
+
+Probably you will not find yourself being too stingy with character
+superpowers; the trend is more often to give your character /all/ the
+powers. Try to focus them into one area.
+
+** [[https://www.youtube.com/watch?v=zZy5KoGqIvs#t=2456][_Character-as-Role_]]
+:PROPERTIES:
+:CUSTOM_ID: character-as-role
+:END:
+Wooden characters happen. It's a thing. Often, this happens because
+you're writing a character into a /role/. Characters need to have a
+/realness/ to them, and they can't do that when they're created
+according to a checklist. It's rather esoteric, but realness often
+derives (in Sanderson's opinion) from characters who have /life outside
+the plot/. What would this character be doing with his/her life if the
+plot had never barged into their life? If you took your character out
+for coffee, what would they talk about? Can you imagine your character
+in any context but the plot they've gotten tangled in?
+
+Consider the evolution of superhero comics. Batman, in his original
+incarnation, was /just/ a vigilante. Superman was /always heroing/. As
+the genre evolved (and as Stan Lee become involved) superheroes started
+having real lives. Spider-man has classes to pass; the Fantastic Four
+have their internal conflicts to work out. They exist as more than just
+superheroes.
+
+Your goal is to /keep your character from being defined by a single
+thing/, particularly their role. Characters defined by their roles
+quickly become stereotypes.
+
+** [[https://www.youtube.com/watch?v=zZy5KoGqIvs#t=2840][_Character Considerations_]]
+:PROPERTIES:
+:CUSTOM_ID: character-considerations
+:END:
+“Round characters” are all the rage these days, and for good reason: a
+round character communicates realness. Four factors contribute to
+roundness:
+
+- Flaws---Sanderson splits these into Handicaps and Flaws. *Handicaps*
+  are things the characters must overcome that aren't their fault (and
+  probably won't be solved by the end); *Flaws* are often the
+  character's own fault, or at least something the character /must/
+  solve if they're going to be whole.
+
+- Passions---characters who are only passionate about the plot get /very
+  irritating very fast/. More specifically, a character with /only one
+  passion/ gets irritating because they're so /boring/.
+
+- Quirks---absurdly popular method and /so tremendously easy/ to overdo.
+  Feel free to give characters something totally perpendicular to their
+  expected role, but be careful about making them annoying. Don't let a
+  quirk define the character. In addition, it's advised that the quirk
+  not have any bearing on the plot. It's not a plot thing; it's a
+  character thing. It's where the character /deviates/ from their
+  established role.
+
+- Expertise---cf. [[#competent][_Competence_]].
+
+*Exercise:* try taking all the characters in your story and slotting
+them into different roles. The love interest becomes the wise old
+mentor, the plucky sidekick becomes the main character, etc. It might
+not be a wise course for writing a whole book, but it's a handy trick
+for figuring out why any character is in his/her given role.
+
+*Exercise:* put two characters into the book who fit into the same role.
+You'll force yourself to distinguish between them.
+
+Most of all, remember that *everyone's a hero in their own +way+ head.*
+Everybody's narrating their life story with themselves as the good guy.
+Even the mook who's guarding the castle gate. Treat them appropriately.
+
+* Session 6: Setting I---You Cannot Do Everything
+:PROPERTIES:
+:CUSTOM_ID: session-6-setting-iyou-cannot-do-everything
+:END:
+** Q&A: Character
+:PROPERTIES:
+:CUSTOM_ID: qa-character
+:END:
+Some Q&A with Brandon Sanderson, hypothetically focusing on the previous
+lecture.
+
+- *How do you plan something large-scale?\\
+  \\
+  *A lot of us read SFF because we /love/ reading huge projects. Back in
+  the day, back when SFF lived mostly in magazines, writers who wanted
+  to work in the genre started with short stories, which were published
+  in those magazines. My generation started reading right around the
+  time that magazines started dying, and also when SFF migrated into a
+  novel-centric environment. So when my generation started publishing,
+  very few of us had read short stories and so very few of us had
+  mastered it or wanted to write it. So that sort of “apprentice in SFF
+  by writing short stories and then move into a longer form” has died
+  out.\\
+  \\
+  My generation grew up reading epic fantasy, so we all wanted to start
+  out by writing that. Learning to write epic fantasy is /hard/. Short
+  stories are hard too, but you can make one of those a lot quicker than
+  you can make a whole long novel.\\
+  \\
+  A lot of aspiring writers will start thinking about their Big Project
+  in their teens, and then they'll spend fifteen years thinking about
+  /just that/. It's an ideal story in their heads, and it transforms
+  multiple times, and eventually you've got this /perfect story/ that's
+  actually kind of just a huge hodge-podge of ideas that you've been
+  having for the last fifteen years.\\
+  \\
+  *The number one thing* I would suggest you do is *throw /all of that/
+  away and start fresh* with something else. I'm not saying you'll never
+  write that one, but if you don't have the experience writing, you
+  can't possibly handle that huge thing. Learning how to write a novel
+  is the number one thing that's going to help you write large-scale.\\
+  \\
+  Once you have a grasp of how to do a single book, you'll have a better
+  chance of understanding how to put together a series. The Three Act
+  format, for instance, works well inside a single book; it also works
+  for a trilogy. Really it's just a matter of learning what works for
+  you on a one-book scale and then exploding that a little./\\
+  /
+
+- *If you're doing multiple first-person perspectives, how do you handle
+  that?*\\
+  \\
+  The thing I've seen most often is titling the chapter after the
+  character whose head you're in. That's the simplest method. Another
+  way of doing it is trying to make your narrators have very distinct
+  voices.
+
+** [[https://www.youtube.com/watch?v=DMJFHUEgobY#t=751][_Setting_]]
+:PROPERTIES:
+:CUSTOM_ID: setting-1
+:END:
+Simultaneously the most and least important of the three major
+components of writing (in SFF). Most important because it's /why/ you're
+writing SFF as opposed to YA romance. Least important because it cannot
+hold a novel up on its own; useless characters or a bland plot will kill
+your book no matter how great your setting is. (Note: setting works well
+in short stories because shorts are very idea-driven, and setting is all
+about those ideas.)
+
+Setting is /great/. Setting is what pulls folks into SFF more often than
+not. Setting is culture and socioeconomics and politics and magic
+systems and customs and religion and mood. It's especially important for
+SFF because, really, when you think about it, it can do /anything/ that
+the other genres can do, /but/ it can have dragons.
+
+The other awesome thing about setting? It's free-form. Where plot and
+character are concerned, your audience is ahead of you: most of the
+pieces for those things exist already and your readers have seen them
+before. Plot structures and character archetypes are not really up for
+invention and debate.
+
+Your setting, though? The gloves are /off/. You can do whatever you
+want.
+
+You want your sovereign nation to make policy based on where and when
+the hedgehogs pop out of their holes? You can do that. You want time to
+be 100% cyclical? You can do that. You want your planet to be a massive
+disk resting on the backs of four elephants, who themselves stand on the
+shell of a cosmic tortoise? By gum, /you can do that/ (although it's not
+recommended because Terry Pratchett has been doing it for a while and by
+this point he's kind of got the market cornered).
+
+This makes the current problem of SFF a little ironic: we can do
+/whatever we want/. But we keep on aping Tolkien. New and original ideas
+are what draw us to the genre in the first place. We are the most
+imaginative genre out there; no one should be saying, “Yeah, fantasy is
+kind of all the same.”
+
+** [[https://www.youtube.com/watch?v=DMJFHUEgobY#t=1205][_The Basics of Setting_]]
+:PROPERTIES:
+:CUSTOM_ID: the-basics-of-setting
+:END:
+Rule number one of Setting: *you cannot do everything*.
+
+Tolkien tried. It took him 20 years to put together Middle-Earth and he
+/still/ did not quite get everything in there. There are still visible
+seams in that book's worldbuilding.
+
+Rule number two: *everything filters through your characters*. If your
+character does not care about a particular aspect of your Setting, you
+would be ill-advised to carry on in that vain (that's a pun and /I'm not
+sorry/). Readers follow the characters' attention.
+
+You may experience an urge to show off your worldbuilding---perhaps to
+have two characters on a roadtrip stop at a specific landmark where you
+will suddenly give a /twenty-page essay on the battle that happened
+there/. You are not adding depth to your world: you are adding pages.
+They are not the same.
+
+Your primary concerns will be:
+
+1. How can I do an original take on this?
+
+2. How can I make it a source of conflict?
+
+3. How can I make it a source of passion (relevant and significant) to a
+   character?
+
+4. Does it lend itself to some cool description?
+
+5. *Sanderson's Zeroth Law: Err on the side of awesome.
+
+What we are doing in this genre is /stuff that is awesome/. This is what
+separates SFF from, say, poetry. *We want to make dragons.* Dragons do
+not make sense, but they are /cool/. Some things are awesome because
+they are awesome. Always be doing things that you think are awesome.
+
+*** Physical Setting
+:PROPERTIES:
+:CUSTOM_ID: physical-setting
+:END:
+This is setting that would exist regardless of sentient races. It'll
+include:
+
+- Topography
+
+- Climate
+
+- Wildlife
+
+- Magic (sometimes)
+
+- Atmosphere
+
+- Lighting
+
+- Elements and geology
+
+- Races
+
+And really everything else. What you're looking for is an idea that you
+think is really /stinking/ cool. The
+fantasy-setting-that-is-basically-Medieval-England thing is getting
+tired these days. Look for something that (a) will stand out and (b) is
+cool to you.
+
+*** Cultural Setting
+:PROPERTIES:
+:CUSTOM_ID: cultural-setting
+:END:
+This is a direct result of (and very directly relates to) the sentient
+races in the book. These can, of course, differ according to the
+alternate cultures in the book. It'll include:
+
+- Parent/child relationships
+
+- Gender roles
+
+- Religion
+
+- Government
+
+- Education
+
+- Military/warfare
+
+- Economics
+
+  - SFF gets a lot of flack for its treatment of this topic (what are
+    all those armies /eating/?). It can be worth giving this some extra
+    thought if only so you can keep your head up around the folks who
+    know a little bit about this stuff.
+
+- Folklore
+
+- Music
+
+- Art
+
+- Ethnicity (and how they deal with it)
+
+- Demographics (and how they relate to each other)
+
+- Recreation
+
+SFF spends a lot of time talking about History and Linguistics and
+(sometimes) Ethnicity but almost none on Recreation, Family
+Relationships, or Education. That's why the genre feels stale a lot: SFF
+writers put all their focus in the same areas.
+
+Be sure to let your cool ideas play together. Let the Topography
+influence the Religion. Let the Government influence the Magic. When
+they influence and play off each other, they'll generate greater depth
+for your story.
+
+** [[https://www.youtube.com/watch?v=DMJFHUEgobY#t=2652][_Sanderson's Laws_]]
+:PROPERTIES:
+:CUSTOM_ID: sandersons-laws
+:END:
+Sanderson devised these as advice to himself, to make his stories
+better. They're all more or less themed toward magic, but can be geared
+toward other setting aspects. Additionally, they're not necessarily
+going to apply to you, but it can't hurt to learn them.
+
+#+begin_quote
+*Zeroth Law:* Err on the side of awesome.
+
+*First Law:* Your ability to solve problems (in a satisfying way) with
+magic is directly proportional to how well the reader understands said
+magic.
+
+*Corollary:* The more you explain the magic, the less sense of wonder
+remaining.
+
+*Tip:* Your numenous, not-explained magic will feel a lot less
+deus-ex-machina-y if, when you fix problems with the mystical magic, you
+cause /bigger/ problems.
+
+*Second Law:* Limitations of powers are usually more interesting than
+the powers themselves.
+
+*Third Law:* Expand what you already have before you add something new.
+
+*Note:* This doesn't mean those other things can't /exist/, but the more
+things you cram into your lens the more difficult it is to care about
+any of them. The Hollywood Villain-Sequel Problem is that if you have
+one villain in movie 1, you need two of them in movie 2, and then three
+of them in movie 3. This makes all three of the villains in that last
+film /slightly less than a third/ as cool and interesting as the one
+villain in the first film, and it's why
+[[http://www.imdb.com/title/tt0413300/][/_Spider-Man 3_/]] wasn't
+[[https://nathanbiberdorf.wordpress.com/2013/08/03/how-id-fix-spider-man-3/][_as
+great as it could've been_]].
+
+#+end_quote
+
+* Session 7: Prose---The Grand Skill
+:PROPERTIES:
+:CUSTOM_ID: session-7-prosethe-grand-skill
+:END:
+** Q&A: Prose
+:PROPERTIES:
+:CUSTOM_ID: qa-prose
+:END:
+Now that the class has had a taste of all the major topics, the Q&A is
+open-season (not that it wasn't before).
+
+- *What gets you stuck when you're writing? How do you get beyond it?\\
+  \\
+  *I get stuck when things don't make sense. Solving it comes down to
+  knowing my own writing style. For me, blocks can come down to a few
+  different things. One is that I just don't want to write, which
+  happens. When it comes to that, I write it anyway, I set it aside, and
+  I come back to it the next day to see if it really was as bad as I
+  thought it was. If yes, I throw it away, but now my subconscious has
+  been working on it and how to fix it...probably. If I try again and
+  again and it still doesn't work, I take a step back and ask “How much
+  does this /actually/ impact the book?”\\
+  \\
+  At worst, I have to scrap the whole thing and start over, which is
+  terrible because momentum is /king/ in how I work. Sometimes that
+  works out beautifully, sometimes it doesn't.
+
+- *I've found I'm pretty good at making scenes that work---that are fun
+  or climactic or interesting, scenes that just /work/---but I struggle
+  to fill the gaps between those scenes with the necessary stuff. How do
+  I do it?\\
+  \\
+  *Ooh. This is gonna be difficult for me to ‘diagnose.' I've known
+  people who write like this and basically their process is to keep on
+  writing fun scenes, just pages and pages of different cool scenes, and
+  then the end step of their process is stringing them together into a
+  book. I cannot comprehend that. That would not work for me at all
+  because I can't figure out where each character is emotionally. Film
+  actors can do that sort of thing, because they're always---you don't
+  film a movie chronologically, it has to fit with the budget and who's
+  at work that day and all sorts of things, so they bounce around.\\
+  \\
+  That said, if you're writing great, fun scenes, that's...like the best
+  first-world problem to have. If it were me, my solution would be to
+  take two scenes that seem like they're sort of close together and then
+  try to write a scene that connects them and is fun to me. It'll be
+  boring to you, so you'd need to find some ways to make it entertaining
+  to you. You could do that with a one-off viewpoint if you
+  wanted---take a scene through the eyes of a waiter and make that
+  waiter really interesting and serve all these bizarre characters. You
+  could also do it with a different setting. Really just make sure that
+  something interesting is going on while you're getting your boring
+  stuff out of the way. Don't do the exposition-while-strolling thing
+  from the Star Wars prequels.*\\
+  *
+
+- *What do you do for revising? Do you revise as you go, or at the
+  end?\\
+  \\
+  *So, revision. Revision is the /worst/. I loathe it. One of the
+  reasons I took so long to get published was that I never revised, I
+  just wrote a new book. My process for revision is to make it very
+  goal-based. I identify, “What do I want to achieve in this draft?” and
+  then I try to make that happen.\\
+  \\
+  For instance, you'll probably have a Polishing draft at some point. In
+  that draft you're looking to cut away stuff that's repetitious, you're
+  looking for word choice---really your goal there is to increase
+  clarity and, if it's your thing, beauty. When I do a polish draft, I
+  focus /only/ on those things. Not character actions, not
+  relationships, not events. /Just/ the small-scale.\\
+  \\
+  What you're probably asking is how to do the Editing draft, or the
+  major-changes draft. I'm a quintessential outliner, or a one-drafter.
+  I have to have my momentum and write chronologically by character
+  viewpoint. What this means is that if I have a great idea midway
+  through the book, it is better for me to insert that idea and pretend
+  it's been there the whole time than it is to go back and start the
+  whole thing over.\\
+  \\
+  This means my first drafts are /bad/. You can see more of this with
+  Warbreaker---that's the book I wrote and posted as I was going, so
+  other people could see how my writing process goes.\\
+  \\
+  The next draft is where I fix the major problems, like characters who
+  just vanish halfway through. I have a document on my computer that's
+  named “Notes for Next Revision,” which is where I keep comments to
+  myself about things that need to be changed. My second draft I'm
+  mostly fixing the big problems, making sure that the whole book works
+  together rather than suddenly jumping the rails in the middle. My
+  second draft is when I start filling out the Notes for Next Revision.
+  They're small-scale things that need to be fixed, but I don't focus on
+  those right now. I'm focusing on making the novel cohesive.\\
+  \\
+  Draft three is my first polish, where I take care of the things that I
+  noticed in the Notes. I send this draft to my editor, my agent, my
+  beta readers, and then their feedback goes into the Notes.\\
+  \\
+  Draft four is where I integrate their feedback. Draft four is when I
+  do the really discouraging editor-things. At this point, I organize
+  the Notes according to severity. I read through the whole book looking
+  for things to change.\\
+  \\
+  After that it's basically bug-fixing. Occasionally I'll need to do a
+  draft five that's as big as draft four.\\
+  \\
+  I want to note that this is /very different/ from how discovery
+  writers do revision. Ask Jansey (sp?) when she comes in, because she's
+  very different and very good at revision.
+
+- *Do you ever abandon a draft? Is it ever so bad that you just give it
+  up?*\\
+  \\
+  I finish the draft unless...well, there are only a few drafts I've
+  never finished. One was /Mythwalker/, which I didn't finish because it
+  felt too generic, it felt too much like what I'd already done. Another
+  one was /Death by Pizza/, which was my first experimentation with
+  urban fantasy---necromancer with a pizza joint---and it was something
+  I'd only done for fun in between two other books, which I do a lot and
+  very few of those get released. Another one was /Liar of Partinel/.
+  I'm not sure if I finished the first draft of that one, but I
+  definitely didn't do multiple revisions on it. It's very dangerous for
+  me---if I put down a book, like write four or five chapters and then
+  stop, it's extremely difficult for me to get back into it, which is
+  bad.\\
+  \\
+  What I recommend for new authors, particularly when your skill is
+  still developing, is just to /finish books/. If you don't, you're not
+  likely to ever learn how to, and then you'll always be disappointed
+  with your stuff. You won't progress as quickly as you need to.
+
+- *Do you have any recommendations for how to finish a book if you've
+  never done it before?\\
+  \\
+  *[[https://www.youtube.com/watch?v=ZXsQAXx_ao0][_Just do it._]]\\
+  \\
+  /Every person/ I've known personally who's finished a first book, the
+  ending has been a disaster. Me included. Most of us, when we first
+  finish a book it's sort of just, “Okay, this is long enough, let's
+  wrap it up now.” At the journeyman level of writing, you're learning
+  how to write great scenes, but you probably don't know yet how to pull
+  it all into a book. The only way I've known to learn that is to
+  practice.
+
+- *I'm struggling a little with voice; I've got five different
+  characters, but their voices are the same.\\
+  \\
+  *One thing I've heard for this problem is to take a well-received book
+  and imitate the voices in there. It's one thing that artists do a lot,
+  where they'll learn how to paint like an Impressionist or a Realist or
+  whatever. So take a character or a writer with a really distinctive
+  voice and try to imitate it as well as you can.
+
+- *Do you do anything before you start writing?*\\
+  \\
+  I don't have a lot of writing rituals. I'm a very workmanlike writer,
+  so I just get up, I read my Scriptures, and I turn my music on and I
+  write.
+
+- *I have a character who's basically a god, and I'm trying to figure
+  out how to set limits on his power level so he can be interesting.\\
+  \\
+  *Ask Howard about this. In his comic, he has basically a god
+  character, and he solves it really well.\\
+  \\
+  There are a couple ways to solve this. One is to confront them with
+  problems their deific powers can't solve---this is the Superman
+  solution. Another is to confront them with a problem that /only/ they
+  can solve, and that will take all their resources.
+
+** [[https://www.youtube.com/watch?v=hpnlOtySqgg#t=1948][_Prose_]]
+:PROPERTIES:
+:CUSTOM_ID: prose-1
+:END:
+The grand skill of SFF writers is the ability to convey setting and
+character to the reader in a way that is engaging, powerful, and
+not-boring. There are multiple ways to take this on, and none of them
+are required---again, it's all about what works for your story.
+
+*** Window Pane Prose
+:PROPERTIES:
+:CUSTOM_ID: window-pane-prose
+:END:
+This style of writing considers prose a window through which you see the
+story. Basically, you want your prose “translucent.” There's an
+extensive essay on this subject, but the concept has kind of stepped out
+into the world and works on its own now.
+
+*** Stained Glass Prose
+:PROPERTIES:
+:CUSTOM_ID: stained-glass-prose
+:END:
+More or less the opposite of window pane prose, where your word choice
+is so powerful and evocative that it can add to the story by drawing
+attention to itself. This doesn't necessarily mean it's overly flowery
+or purple, just that it's very intentionally beautiful. This is
+difficult to do without being self-conscious, which can turn the whole
+thing into a farce.
+
+*** Hybrids
+:PROPERTIES:
+:CUSTOM_ID: hybrids
+:END:
+It's extremely dangerous to write Window-Pane 90% of the time and
+Stained-Glass the other 10%. When it's surrounded by a transparent
+style, Stained-Glass looks a lot more like purple prose, which is the
+writing equivalent of caking your entire face in makeup.
+
+** [[https://www.youtube.com/watch?v=hpnlOtySqgg#t=2344][_The Pyramid of Abstraction_]]
+:PROPERTIES:
+:CUSTOM_ID: the-pyramid-of-abstraction
+:END:
+/As your writing grows more abstract, it becomes easier to talk about
+lofty ideas and harder to keep the reader involved in the story./ You
+can visualize this as a triangle; things up at the top are more abstract
+(narrower, harder to make readers connect with) and things at the bottom
+are more concrete (broader, easy to visualize).
+
+This is why a lot of writers will start off with a /grounding/ element,
+some short setting description so that no characters are “talking in a
+white room.”
+
+Writers are prone to /navel-gazing/, in which the character broods.
+Take, for instance, Batman mulling about how his dead parents would feel
+about how he's handling the crime problem in Gotham and whether they
+would be proud of him or ashamed and what if he's actually doing
+something they wouldn't approve of but really he's probably right
+because they /tried/ to change the city and they failed and they died
+but he's going to change things by /beating up psychopaths/---
+
+/blech/
+
+This sort of thing is all the way up in the Pyramid of Abstraction. It's
+hard to keep the reader grounded while your character is mumbling about
+their moral philosophy and flashbacking to how they developed it when
+their family's butler was talking about Kant.
+
+Love and morality and heroism fit at the top of the Pyramid, obviously.
+Where would you put “dog”? If you said “bottom,” sorry, try again, but
+take comfort in the fact that everybody else thought that way at first,
+too.
+
+“Dog” is actually an abstract concept. It's like a Platonic Ideal,
+because if you say it to two different people, they'll get two different
+images. Dog is only slightly lower on the Pyramid than love because when
+you say “dog,” you're giving your reader almost nothing. You can drag
+almost anything down from its place on the Pyramid of Abstraction by
+giving /specific detail/. “Her Majesty's corgi” is way more specific
+than “dog.” The danger, of course, is that adding detail often requires
+adding words, which slows your prose down a lot.
+
+One of the best ways to go about this is to pick one or two significant
+details for your scene, and describe those with their own concrete
+details, and these will help evoke your scene. Using multiple senses,
+rather than just sight, will also help solidify the story.
+
+Do be cautious of using The Gorilla in the Phone Booth. If you give
+offhanded description of something extraordinary, like a gorilla in the
+phone booth, you'll redirect the audience's attention without
+necessarily meaning to.
+
+Take note that epic fantasy can handle more description than, say, an
+urban thriller, but try not to go overboard. Precision and economy are
+your primary goals in prose, even if you're doing Stained-Glass.
+
+It /is/ possible to do too little description, but it's extremely rare.
+
+** [[https://www.youtube.com/watch?v=hpnlOtySqgg#t=3079][_Infodumps_]]
+:PROPERTIES:
+:CUSTOM_ID: infodumps-1
+:END:
+You, as an SFF writer, have a lot of really cool stuff you want to get
+across to your reader. Rule number one is that you don't need to give
+nearly as much as you feel you have to give. Err on the side of leaving
+it out. Your readers will let you know when they're confused.
+
+In general, new writers try to stuff too much in. There was, in early
+fantasy, a trend toward three-page Prologues that explain the whole of
+the storyworld in incredibly dry, boring detail. You can still do
+prologues, but readers really want to start with conflict and character
+and then work the setting in later. Readers have gotten too
+sophisticated to read a travelogue at the beginning of their novels.
+
+Rule number two is to set your tone early and honestly.
+
+Rule number three is to be unobtrusive. One way to do that is the
+character-in-school trope, where a lecture on the magic system is
+happening, but it's broken up with character and conflict so that you
+only include the most necessary details. Another is to have characters
+have /natural/ conversations (or, better, /arguments/) about the things
+you want to exposit.
+
+When you're doing this exposition, be cautious about creating Great
+Walls O'Text at the beginning, because they communicate to the reader,
+“/Steep/ learning curve; dense prose; reader beware.” If they come in
+and they see something a little more broken up, with smaller paragraphs
+and interspersed dialogue, they'll consider it a fast-moving book.
+
+Really, the grand skill is just the ability to commit inception on your
+audience, where you convince the reader that they're watching the main
+character's argument with a horse merchant, when /really/ you're
+slipping in details about how that character yearns to become a ship
+captain /and/ that your setting is steampunky /and/ that the character
+is poor /and/ that the character is extremely brusque and struggles to
+communicate his feelings /and.../.
+
+** [[https://www.youtube.com/watch?v=hpnlOtySqgg#t=3875][_Q&A Again_]]
+:PROPERTIES:
+:CUSTOM_ID: qa-again
+:END:
+- *How can you start with an exciting scene and then transition into,
+  like, lore stuff?*\\
+  \\
+  For that stuff, it's largely personal taste. One thing that is really
+  helpful for this is the prologue. You can set up tone and lore in that
+  prologue, although you have to be careful with them. The “baby is
+  rescued and then fostered out” and then, like, 18 years later that's
+  the main character is one of the /most/ cliched things in prologues.
+  That doesn't mean it can't be done well, because that's what Harry
+  Potter did and it's a fantastic book, but it's dangerous.
+
+- *Is it possible to show too much and not give enough of the
+  character's reaction?\\
+  \\
+  *Yes. I've noticed this a lot more with my YA stuff than my adult
+  fiction stuff. One way to do it is to sort of let the character muse
+  on something and break up their “feelings” about something with their
+  conscious thoughts, like dialogue.*\\
+  *
+
+- *[something unintelligible about show v. tell]*\\
+  \\
+  /Telling/ is writing “He was lonely.” /Showing/ can give us the
+  specific type of loneliness and lets the reader infer things and
+  develop an emotional connection with characters. Showing the lonely
+  character sitting at the lunchroom table by himself, listening into
+  the conversations of others and whispering to himself what he would
+  say if he were lucky enough to be part of their group, can be more
+  powerful than “He was lonely.”
+
+- *Do you have any rules of thumb for doling out clues in a mystery
+  plot?\\
+  \\
+  *A good one is “Mention it three times before it becomes relevant.”
+  Test-readers are good for this. Err on the side of being a little more
+  obvious than you think you need to be. As before, it's really just
+  about giving a sense of progression.
+
+- *[something unintelligible]*\\
+  \\
+  Readers are better at picking up “shows” than you think they are. They
+  are worse at picking up clues about the large-scale plot than you
+  think they are. Remember that you /cannot/ fool everyone, and if you
+  did then you probably wrote a bad book. The best reveal, to me, is
+  when the majority of the readers figure it out one paragraph before
+  it's revealed, and they're excited/worried that they're right.
+
+* Session 8: Prose III---Shop It
+:PROPERTIES:
+:CUSTOM_ID: session-8-prose-iiishop-it
+:END:
+** [[https://www.youtube.com/watch?v=Umcm6XqJpBc#t=125][_Q&A: Assorted_]]\\
+:PROPERTIES:
+:CUSTOM_ID: qa-assorted
+:END:
+- *How do you handle stubborn characters?\\
+  \\
+  *It'll depend on what your arc is. You might want your character to
+  overcome their stubbornness inside the book, and you might not. Some
+  characters will be very aware of their own flaws and trying to fix
+  them or acknowledge them or something. Others will be less self-aware
+  and more instinctive.\\
+  \\
+  One thing that's helpful is maybe running your character through a
+  scene that isn't relevant to the plot at all and seeing how the
+  character reacts, so you understand their idiosyncracies better. And
+  then you can do that again at the end of the book and see if the
+  character's reactions are different.
+
+- *[something unintelligible about book releases]*\\
+  \\
+  I don't have much say in when my books get released. A lot of it
+  depends on what the publisher wants to do and also when I turn the
+  book in. One big benefit to publishing in fall is that you get the
+  Christmas season, which is great for sales, but if a book is published
+  in the spring there's less competition for bestseller lists.
+  Bestseller list placement is important because booksellers use that as
+  their gauge for which books they ought to give pride-of-place to.
+
+- *Do you pick an aspect of your writing and focus on it when you write
+  a book?*\\
+  \\
+  Yes. Significantly. In /Warbreaker/ you can probably tell that I'm
+  trying to work on humor, in /Way of Kings/ I'm focusing on
+  worldbuilding. Obviously you want to get better at everything the more
+  you write, but it can be helpful to focus on just one aspect of your
+  craft in any particular project. Shorts can be really good for this,
+  too---/The Emperor's Soul/ was me seeing if I could write a story that
+  basically takes place in only one room, and /Legion/ is me trying to
+  do a contemporary detective story.
+
+- *What kind of time commitment does it take to become a great
+  writer?*\\
+  \\
+  That's going to depend a lot on where your skill level is when you
+  start and also on your own style of writing. Eric Flint (sp?)
+  describes himself as a “binge-writer.” To my knowledge his style has
+  always been taking three or four months, and write 12 hours every day,
+  and get the book out of his system and then he won't write for months.
+  My friend Jansy is also a binge-writer.\\
+  \\
+  I myself am a daily-quota writer. I write every day consistently, and
+  I need a /block/, not interspersed in 30-minute bites.\\
+  \\
+  Other writers are great at dabble-writing, where they do those small,
+  bite-size chunks of writing and then they watch TV or something.\\
+  \\
+  We say “write every day,” but there's a big old asterisk on that.
+  Really it's very individualized. You have to figure out what works for
+  you. Bear in mind, though, that most people need years of doing a
+  thing before they become a “master” of a form. That's the idea of
+  “10,000 hours.”
+
+- *If you're a new writer, but you can't get published, when should you
+  start thinking about self-publishing?*\\
+  \\
+  I try to avoid /should/ in this class, so I'm going to avoid saying
+  that. I'm trying to give you as many “you can” and “if you'd like”
+  statements as possible, instead of “you must” or “you should.” With
+  that said, self-publishing today is /extremely/ viable. There are
+  writers today who are making a living doing full-time self-publishing
+  and they work completely off of electronic publishing.\\
+  \\
+  When should you be considering it? It depends on your own feelings. If
+  having print editions in the bookstores is a big deal to you,
+  self-publishing isn't your jam. If you hate doing your own cover
+  design or hiring a cover designer, or hiring an editor yourself, or
+  doing all your own marketing---pursuing traditional publishing is the
+  best option for you. But if you feel like “I could do all that” then
+  maybe you should pursue self-publishing from the get-go.\\
+  \\
+  So what is the “should”? The /should/ is based on what you want, what
+  you're comfortable with, and what you're capable of doing. If you're
+  only going to write a book every four years, self-publishing will
+  /not/ pay your bills.
+
+- *Thoughts on online writing groups?*\\
+  \\
+  I personally do not like online writing groups. I prefer being able to
+  see the body language of people who are reading my stuff.
+
+** [[https://www.youtube.com/watch?v=Umcm6XqJpBc#t=1302][_Prose Workshop_]]
+:PROPERTIES:
+:CUSTOM_ID: prose-workshop
+:END:
+During this segment, Sanderson reviews several submissions from his own
+students, looking specifically for ways to show instead of tell, for
+instances of too much wordiness (or too little), repeated constructions,
+phrasing that goes too high on the Pyramid of Abstraction, and other
+small-but-significant writing bugaboos.
+
+It is, however, nearly impossible to read the text on the projector, so
+I've collated Sanderson's personal tips:
+
+- Start by turning on Track Changes and turning off Autocorrect.
+  Sanderson also likes having the Document Map up (which is not a
+  feature I'm familiar with).
+
+- Follow the viewpoint character's attention; don't lark off onto things
+  the character doesn't notice /unless you really know what you're
+  doing/. The style-in-vogue is to keep yourself confined to one
+  character's head and downplay the “little did he know” style dramatic
+  irony.
+
+- Beware passive voice!
+
+- Focus heavily on /image/ and /character/.
+
+- Beware lazy sentences---in fact, beware adequate sentences. The
+  overachieving sentences, which accomplish two or three things at once,
+  are where the money's at. If your sentence is /only/ describing a
+  standard situation, odds are good it's not working hard enough.
+
+- Weigh the costs and benefits of each wording decision you make.
+  Sometimes you'll need to pick between giving more detail about the
+  world and giving more detail about a character's history or emotion.
+  Consider what you gain and what you lose.
+
+- Be careful to let your reader follow the character's line of
+  reasoning; don't let the character jump through conclusions all on
+  their own.
+
+- It's often helpful to give a magic system sensory components. If you
+  were to describe a carpenter carving wood, you could go into great
+  detail about how he grips the knife, how the wood smells, how his
+  fingers move over the grain. Any kind of art in our world has that.
+  Often, though, fantasy writers will just give their magic a keyword
+  and nothing else. Magic systems are more interesting when they have
+  sensory components. (Consider /Avatar: The Last Airbender/: the magic
+  system is highly visual, as well as being very, very active.)
+
+- Be careful about viewpoint errors, like mentioning that your viewpoint
+  character didn't notice something. If your viewpoint character didn't
+  notice, you cannot bring it up without breaking viewpoint.
+
+- Strive to move details down the Pyramid of Abstraction. Instead of “a
+  general air of bemusement,” describe slightly squinted eyes, a mouth
+  that has opened without its owner realizing it, or something similar.
+  That being said, sometimes you can get away with “a general air of
+  bemusement.”
+
+- Those of you who self-identify as editors: be cautious about applying
+  hard-and-fast rules to others' writing. Be hard on your own writing,
+  but gentle on that of others. For instance, if you're reading a
+  submission from your writing group, do not presume to change
+  “hollered,” “lobbed,” “rebutted,” “replied” or “claimed” with “said.”
+  Be judicious about interfering with someone else's diction.
+
+- Be extra careful about metaphors and euphemisms in your phrasing,
+  particularly when writing SFF. For instance, “He flew across the room”
+  is a permissible (if somewhat lazy) sentence in a contemporary novel,
+  but in a fantasy novel it could mean something /very/ different.

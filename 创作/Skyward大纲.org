@@ -1,0 +1,1185 @@
+#+title: Skyward Outline
+#+latex_class: ews-zh
+#+startup: content
+#+TODO: IDEA(i) PLAN(p) DRAFT(d) REVISE(v) EDIT(e) PROOF(f) FINAL(l) PUBLISH(u) HOLD(h) | DONE(d!) CANCELED(c@)
+* Skyward Book Guide
+
+*布兰登写给阅读这份指南的作家们的说明：*
+
+这是我在动笔之前发给出版社的故事大纲与指南——在实际写作过程中，很多地方都发生了变化。
+希望把最初的计划与最终呈现的作品放在一起对比，能对大家有所启发。当然，这份指南包含对全书的严重剧透。
+恳请大家先去读完小说再来看这份指南，免得我总担心自己把自己的故事给剧透光了，毁了大家的阅读体验。
+
+还有一点需要说明：我构思小说时，往往会围绕某些特定的情节主题（比如悬疑、某段关系等）来展开，并针对每个主题列出要点。不过，在这份大纲里你基本看不到这种痕迹，因为当我把所有子情节和主题都梳理出来后，就将它们整合成一个连贯的大纲，按顺序放在了最下面。
+你可以想象，所有这些要点原本分别列在不同的标题下，然后按顺序合并在一起，再稍作调整，读起来像个叙事梗概。
+还要注意，这些要点往往写得不是特别详细，因为它们主要是用来提醒我接下来该发生什么的。
+
+这份文件本来就不是写给有志于写作的朋友看的故事创作指南。我建议你们去看我在 YouTube 上的系列讲座（我记得在 2020 年的讲座里，第三讲讲的就是这个大纲构思的过程）。
+
+总之，希望这些东西对大家有用！祝各位创作顺利！
+
+——布兰登
+
+* Overview
+《Skyward》是一部节奏明快的动作科幻小说，既有《壮志凌云》的热血，又有《伊拉龙》的奇幻。
+故事围绕一位年轻的女飞行员展开：她在受训抗击一支未知外星力量时，
+发现了一艘古老且技术远超当代的飞船残骸。
+在训练的间隙——也就是那些与敌机激烈缠斗的课余时间——她和一位朋友让这艘飞船重新启动、飞了起来，
+刚好赶上最后那场高潮决战，助上了一臂之力。
+
+* Setting
+** Detritus
+The planet Detritus is home to humankind. Most of the surface is a place
+of rubble and wreckage, the result of hundreds of years of war with the
+Krell--a mysterious alien force who is trying to exterminate human
+beings.
+
+Most people live under ground, in enormous bunkers where they eat
+vat-grown algae and support the war effort. Some brave souls venture
+onto the surface and either hunt for meat, or scavenge among the rubble
+and wreckage.
+
+This is a constant danger because the Krell target anyone who tries to
+live on the surface. Their ships explode when damaged, releasing
+radiation. (They have never been captured alive.) They tend to
+carpet-bomb sections of land randomly, just to make sure nobody is
+hiding there. If they find where a settlement is, they bring in the
+Lifebuster--an enormous bomb, carried by a bomber ship, which can
+penetrate the ground and destroy even an underground base.
+
+Detritus has an exceptionally messy upper atmosphere, full of ancient
+junk. And I mean FULL. There's like a huge layer of it, which often
+falls as debris (particularly when the Krell come down to attack, as
+they blast a hole through it to fly down. You can only rarely glimpse
+the actual sky, but when you can. It has a small, white sun.
+
+** Alta and Inferna: The City Above and the City Beneath
+The largest underground settlement is known as Inferna, and for many
+years it was hidden and safe. However, twelve years ago, a Krell
+scouting ship discovered it--and they brought in a Lifebuster to try to
+destroy it. This assault was fought off in a famous victory. (During
+which the main character's father abandoned his flight and was named a
+coward.)
+
+This left a problem, however. Inferna was known, and further attempts on
+it would be made. Should it be evacuated, or remain? While some people
+did leave, others decided they would stake their claim here--and remain.
+They started building a city above it, on the surface, named Alta.
+
+Though this has been tried many times in the past, Alta has survived
+where other cities have failed. Though most people (including our main
+character) have never even been there, Alta is still a symbol of the
+fact that they're fighting back. Living in a place with trees, and fresh
+air, and crops again.
+
+The inhabitants of Inferna, Alta, and a few satellite (underground)
+communities are collectively known as the Unified Defiant League--or
+Defiants--but are divided internally as Abovers and Beneathers. The
+nation is known as the Defiant League, or the League, to most people.
+
+Alta is home to the DDF. (Defiant Defense Flights.) It is the only
+permanent defense force on the planet; though other strike forces exist,
+those ships stay constantly moving, and are more like hidden guerrilla
+fighters than they are a true defense force. They are tied to other
+communities, other groups of people, who either hide in caverns, other
+underground bunkers, or survive on the surface in hidden groups.
+
+** The Krell
+The mysterious aliens who fight humankind are known only as the Krell.
+
+According to the histories, humankind once spread through the entire
+galaxy. The Krell, a race of mysterious aliens, appeared out of nowhere
+and drove men back--eventually destroying their homeworld, and all of
+their fleets. The last remnants of humankind hid on Detritus, a planet
+they hoped would let them hide, as it was considered “safe.” Nobody
+knows why, these days. Destruction to the planet's records (and
+extermination of the above ground cities) have left many holes in their
+history and understanding.
+
+Unfortunately, the Krell did find mankind on Detritus, and began
+launching attacks. Mankind was driven underground.
+
+These days, Krell attacks come regularly--but randomly. They take the
+form of flights of ships that try to deliver a bomb to destroy Alta and
+Inferna. They are resisted by the HAFFS, who scramble ships to resist
+each time the Krell descend through the Haze--the envelope of debris and
+smoke that surrounds the planet.
+
+The Krell involve many mysteries. Why do they attack when they do? If
+they fought humankind into hiding throughout the galaxy, why don't they
+have the forces to attack in greater numbers, and completely wipe people
+off of Detritus? What do they even look like? Ships explode when
+damaged, and only a few have ever been recovered--and the cockpits of
+these were empty, as if the Krell are capable of teleporting away before
+being blown up.
+
+** Human Society
+Life on Detritus is difficult. It is sustained by drawing energy from
+the molten veins that run underground--this heat is used for
+electricity, and for growing algae. (It is a specialized type that,
+instead of translating sunlight into growth, grows using heat.) Many
+people work the vats, stirring the algae and stimulating its growth in
+enormous underground growing chambers--hot, sweaty, miserable work.
+Others work the forges, tapping magma veins for iron and other metals,
+which flow through the crust of Detritus.
+
+Even in Alta, food other than algae is rare. Some other crops can be
+grown in open air--a few luxury crops. The elites suspect that these
+crops (which tend to yield very small returns, because of the low light
+from the small sun) could probably never sustain the entire
+population--and remain a luxury item for now.
+
+The war has been going on so long, that people tend to be very focused
+on the war. The ultimate aspiration of most Defiants is to get into the
+DDF, where they can fight back. The real pilots are chosen through a
+culling process, where trainees are placed into practice flights and
+taught--partially while engaging in real combat--so that those with true
+skill and courage are eventually chosen to become full pilots.
+
+In Defiant society, backing down is considered cowardice. People are
+taught to fight, hold their ground, and not give in. Though some other
+humans, from other communities, have a different perspective, Defiants
+are aggressive--even hyper so. This tends to be encouraged by the
+leadership of the League, who want fighters who won't back down.
+
+** Flight School
+Defiants split their time between schooling and work, often in the
+forges or the algae vats. At seventeen, they can test for Flight School.
+Everyone takes the tests, but you can just walk out if you don't want to
+be in Flight School. A surprising number of people do this, as the
+pressure is too high, and they know the casualties are also very high.
+
+Nobody is told what is on the test, and you are supposedly unable to
+prepare for it. But it is always lengthy and somewhat obtuse. The
+subject tested can be basically anything.
+
+In truth, the test is a little bit of a farce. Students are watched by
+teachers and trainers on the jobs, and certain people are picked out
+ahead of time to succeed. The test has almost no influence on it--though
+there is some little amount it counts. (Mostly, the test givers want to
+see how persistent people are in forcing their way through a very
+difficult, lengthy, and obscure test.)
+
+Those who are chosen are given cadet pins. (Many people through the city
+wear these as a sign of prestige--even if they didn't make it to full
+pilot, it's a symbol of excellence to own one.) The cadet leave for
+Alta, where they are initiated into a flight of ten other students. They
+are given intensive training for a series of several months, during
+which they are used in real combat--though always in a support role.
+(Supposedly.) At the end, those few who prove themselves are given the
+Pilot pin to wear instead, and become full pilots.
+
+During the training, cadets are given a ship to fly--a small training
+fighter called a “Pico-class” ship. These picos are maneuverable, but
+low on firepower, and are cheaply produced. The exception is if you
+bring your _own_ ship to fly. Some children of pilots inherit the ships
+of their parents--and some Abovers or rich Belowers can afford to buy a
+ship. If you bring your own ship, you are auto-enrolled into flight
+school, without needing to take the test. You can also fly your own ship
+in training, which also gives you an advantage.
+
+Most cadets (nine out of ten) either wash out or are killed during the
+training.
+
+** The XB-1021
+In the opening scenes of the book, Spensa (the main character) will
+discover a cavern near the surface of the planet. Inside is an old,
+broken ship of ancient--yet incredible--design. She has visions of
+repairing the ship, and using it to join the DDF. (Though, then, she
+ends up getting in without it.)
+
+She thinks this must be a crashed human ship from generations ago, back
+during the initial wars that landed them on Detritus. It is obviously
+capable of space flight (something their current fighters can't do.)
+
+Part of the story will be this ship being repaired, and secrets about it
+being revealed. (See the next section, and plot sections.)
+
+** The Secret
+The history that people on Detritus have been told is a lie.
+
+In truth, humankind (led by a tyrant) tried to conquer the galaxy
+generations ago. At the end of a long interstellar war, this group
+lost--and was eventually rounded up and deposited on Detritus, which is
+a prison planet for them. The alien federation who defeated them was
+very worried about humankind getting off and starting another war. (They
+think humans are far too aggressive.) However, they also don't want to
+engage in genocide by wiping out an entire species.
+
+The solution was to keep humans on this planet, but to keep their
+aggression channeled toward fighting a war that will drain their
+resources. The entire idea of the “Krell” was invented to give humans
+something to fight, something to keep them occupied. But it's not
+entirely just a game, as these forces are also designed to destroy human
+infrastructure and cities if they start growing too much--to keep them
+from becoming a threat again.
+
+The unified forces who surround the planet have placed automated
+stations that create robotic ships who imitated being “the krell” and
+their fleets are replenished when they are destroyed. The groups of
+aliens who maintain these just basically keep them running, but don't
+engage in any fighting themselves. (Indeed, the galaxy is mostly
+peaceful at this point.) Ships are designed with empty cockpits in order
+to keep the humans guessing, though they're all actually remote
+controlled.
+
+The krell represent a real danger, however, as they've been programmed
+to keep the humans down and prevent them from escaping--and to keep them
+from contacting the outside. (The Krell aggressively destroy wireless
+technology that is more powerful than radio.)
+
+However, humankind has managed to establish Alta and build defense
+forces that are stronger than anticipated. This has led, slowly, to “the
+Krell” to begin building stations around the galaxy to provide
+reinforcements. Though this hasn't happened yet, the mandate of “Defeat
+the humans” is starting to run rampant, unnoticed and unchecked by those
+who built them.
+
+*** What the Defiants believe
+Of course, people ask questions. One of the big ones is, “Why do the
+Krell only attack periodically. Why not send a huge force and overwhelm
+us?” What the Defiants believe is that most of the Krell think humankind
+is exterminated. They've conquered the galaxy, and rule everything. They
+don't know that humans are hiding out on this one planet, which is
+protected by a huge, thick debris field.
+
+However, Krell scouting fleets periodically sweep the galaxy,
+investigating unpopulated planets and looking for life forms to
+exterminate. Defiants believe that these are the groups they fight, that
+the larger Krell empire (which is unwieldy and full of creatures that
+are almost more of a swarm than a true intelligence) doesn't take notice
+of the occasional flights going missing.
+
+Defiants believe their job right now is to hunker down and survive, as
+they are the last of mankind.
+
+** Dogfighting Mechanics
+One challenge of this book is going to be making certain that the
+dogfighting scenes are interesting, fun, and not overly-full of jargon.
+My instincts say I should stray away from trying to be hyper-realistic
+in my descriptions of dogfighting, as this isn't a manual on how to be a
+fighter pilot.
+
+Therefore, we need some mechanics for the fights that will be easily
+understood, but will also pull us into our own realm of fighting--away
+from realism, more into science fiction action. I'm going to do this in
+several ways.
+
+Fighting against the Krell is difficult. Their shields are impervious to
+most regular weapons fire, and are too maneuverable for missiles. This
+means that simply locking on and firing away is useless. So the fighters
+carry two specialized weapons. The first is an IMP (Inverted Magnetic
+Pulse, though I don't ever intend to explain that) a device that
+releases a blast knocking out all shields in a small area. These are
+mounted on the ships themselves, so when you fire one, you bring down
+the shields of yourself, any enemies, and any allies within short range
+of you.
+
+This means you need teamwork to bring down Krell. One of you has to
+expose themselves for a few minutes while the other shoots down the
+exposed enemy.
+
+The second aspect of the fighting will be the Light-Grapple, a weapon
+that lets the fighters stick themselves to things with a glowing energy
+grappling hook. They can hook to other ships, or to debris as it
+falls--or, if they're a good shot, they can stick one end to an enemy
+ship then stick the other end to a falling piece of debris. This device
+allows them to perform faster-than normal turns, tow others out of
+danger, and otherwise perform some great Ariel maneuvers.
+
+The final aspect of the fighting is the debris field itself. The fact
+that Detritus used to be a junk planet comes into play quite a bit in
+the fighting. In order to get through the atmosphere, the Krell usually
+sweep an opening in the sky--causing tons and tons of rubbish, bits of
+rock, and chunks of metal to fall to the surface. The fighters, then,
+have to dodge this (sometimes using it with their light-grappels) and
+even attack it during the fighting, to blow up the larger pieces and
+protect anyone down below.
+
+Together, this should create some cool visuals, an interesting
+battlefield, and allow me to keep a tighter thumb on the
+battles--keeping the reader in control of what they're imagining.
+However, my instincts say that early drafts will need a little extra
+attention paid to the combat sequences to keep blocking, character
+motives, and the like straight.
+
+** Technology
+A specific word on the technology level of the Defiant. I want them to
+be hyper advanced in some ways, but really behind us in others. For
+example, they have advanced fighters with gravitational dampeners to let
+the pilots take extreme corners. They can harvest from the debris metal
+that floats, letting them get ships into the air, and have some cool
+hovering technology. At the same time, there is almost no computer or
+wireless technology.
+
+A list below will give an overview of these sorts of things.
+
+*They Have:*
+
+--Hover technology.
+
+--Advanced ship weapons. (The Light-Grapple, the IMP.)
+
+--The ability to grow food using heat instead of sunlight.
+
+*They don't have:*
+
+--Advanced wireless technology. (The debris interferes with getting it
+off planet, and the Krell use it to target hidden cities. Even the
+Defiants don't use this, by tradition.) No cell phones. No tablets.
+Crude walkie-talkies in the ships, and radio back to the home base, but
+those channels are forbidden for regular people to use. Instead, there's
+an old-school operator system where you call in on a kind of intercom,
+and ask a message to be relayed by an operator.
+
+--Handguns. Gunpowder is difficult to make on Detritus, and ordinary
+people are forbidden to carry their own guns. The munitions all go to
+the war effort. Besides, everyone is supposed to be focused on the war
+effort, and they can't afford casualties. They can't prevent fighting,
+however--and people will still get in scuffles. So some people carry a
+pair of “bruisers,” gloves that deliver an electric shock when you
+connect, and project a slight defensive field when used correctly.
+Often, like in our world someone might have carried a sword at their
+side, the upper class will carry a pair of bruisers on their belt.
+
+--The ability to make their own hover technology. They have to harvest
+antimatter from fallen debris, or from ships that are shot down, to keep
+their fighters in the air.
+
+** Worldbuilding Extra tidbits
+*** Art Design
+The art design of Inferna will have a kind of cubist/futurist feel, with
+lots of repeated images, blocky repetitive feel, with an almost
+Communist Propaganda undertone. (Don't worry, this won't be overt.)
+
+The art design of Alta will be Art nouveau, with flowing designs, almost
+a 20's clothing style, and images of things like spring fields and women
+in flowing clothing representing concepts like justice.
+
+*** Society
+Defiant tends to be a war-focused society, as one might imagine from the
+constant invasions. It's like the United States during WWII near the
+end, where rationing was strongly in force, and everything was focused
+on beating the enemy. I want to avoid going too Big Brother, as I feel
+that's been done to death, but when people talking they'll often talk
+about the war effort. They call each other by the title Defiant.
+
+(Probably will be a few more things here, as I continue.)
+
+* Main Characters
+** [#A] Spensa (Callsign: Spin) :Spensa:
+Spensa is the protagonist of the series. She's daughter of a former
+pilot--but one who was branded a coward for fleeing during the First
+Battle of Alta years ago. Her father was shot down by his own wingmen
+for his cowardice, and she has suffered as a result. While other
+children were given jobs, and allowed to earn to help their families,
+Spensa was declared “unfit” because of being small for her age. (This,
+though, was simply an excuse--and everyone knows it.)
+
+Now seventeen, she tries to help her mother survive by sneaking up onto
+the surface and hunting for rats. (Which he mother sells at a little
+stand down below. It's kind of gross, even to other Beneathers--but
+getting meat is unusual enough that other people will buy. She's often
+off hunting late enough that she misses schooling, or gets suspended for
+being late to classes. She's never been a terribly good student, but she
+harbors a deep, powerful desire to be a pilot--to clear her father's
+name.
+
+Spensa dreams of being a pilot. As a child, she would sneak up to the
+surface with her father (whose hobby was hunting for salvage.) They'd
+look up at the sky, and dream of what was beyond the debris field.
+(We'll get to see one of these moments, in the prologue, looking up and
+seeing stars in a very rare opening in the debris.)
+
+Her father's dream was to discover what was “beyond the iron sky” as he
+put it--to find out what was out there, where humans came from. He was a
+dreamer and an optimist, but Spensa has spent her life angry. Angry at
+the people who call him a coward, angry at those who have punished her
+and her mother, and even a little angry at him for abandoning her. She
+has a legendary temper, and brashness beyond measure--which serves her
+well, at times, as she's willing to try things nobody else will.
+
+In the book, her stubbornness gets her a spot in the DDF, but will have
+to choose which dream to live. Anger, retribution at those who punished
+her, and a profound desire to destroy the Krell--or her father's dream,
+the dream of wondering what is beyond the iron sky.
+
+** Rodge (Callsign Rigmarole)
+Rodge is Spensa's best friend, and one of the few people in school she
+gets along with. Quiet, tall and kind of “lurchy,” he's always been good
+with his hands. They've dreamed together of joining the DDF since they
+were children, and he's like a brother to her. (They've been friends
+since she beat the tar out of someone who was bullying him.)
+
+Rodge is one of the few people who won't put up with Spensa's crap,
+particularly when she starts bragging--or starts getting herself into
+something stupid. Unlike her, he takes school very seriously, and aces
+his tests to join the DDF. He wasn't going to get chosen, but they can't
+deny him when he gets a perfect score--so they let him in. However,
+after the flight's second encounter with the Krell, he admits to himself
+that he just can't handle the pressure and--against Spensa's
+wishes--drops out, determined to just go work the manufactory with his
+brothers.
+
+Spensa, however, ropes him into her scheme of repairing the ship she
+discovers--and he ends up being the primary mechanic who tries to get
+the thing up and running again.
+
+** MB-1021 Wanton Destroyer (Callsign: Murderbot)
+In the opening chapter, while hunting rats, Spensa makes an incredible
+discovery. In a hidden cavern, laying where it crashed centuries ago, is
+an old fighter. She determines to repair it and learn to fly it.
+
+It turns out that the ship has an advanced AI, beyond anything the DDF
+uses or knows about right now. It seems to be lost technology--it can
+even communicate with her wirelessly, without using standard radio
+signals, something forbidden because it usually draws the Krell.
+
+Beyond that, it is sleeker, better armed, and faster than even the best
+of DDF ships. However, it also has very different controls, and was
+severely damaged in the crash, and the passage of time since then.
+
+During the course of the novel, 1021 will become a main character.
+Spensa wants him to be an awesome, destructive machine--but his
+programming has been corrupted, and basically the only thing he
+remembers is that he was ordered by his last pilot to deactivate all
+weapons. His personality is that of an inquisitive robotic
+hyper-pacifist, which contrasts with the fact that he's a walking weapon
+nicknamed “murderbot.”
+
+In the end, 1021 will replace Spensa's pico class ship after she ejects
+(during an intense fight) and is kicked out of the DDF for losing her
+ship. Through most of the book, however, he's learning, growing, and
+being re-trained by her and Rodge to be a functional ship again.
+
+Needs to be programmed to speak.
+
+** Jorgen (Callsign: Jerkface)
+Jorgen is both the primary antagonist in the book and an eventual
+romantic interest for Spensa. .
+
+The son of a pilot and inheritor of his own advanced fighter, Jorgen was
+raised in Alta--and is an Abover, raised to privilege. Basically, the
+Defiant version of an aristocrat.
+
+Because of his ship, he has a distinct advantage in the testing of the
+cadets, something that Spensa resents. Beyond that, he's arrogant to a
+fault--something caused by the fact that he feels insecure about being
+given a free spot in the DDF. He hates that he's been given a free ride,
+and even (secretly) tried to take the tests. But of course, the tests
+don't really mean much, and they basically ignored his scores because he
+was already slated to get into flight school.
+
+His parents expect him to do a short tour with the DDF, then retire and
+enter politics--a common move for someone of his birth. In the school,
+he's often trying to take over the flight, and act like the team's
+leader--another thing that rubs Spensa wrong. My goal with him is to
+introduce him as your classic spoiled “Draco Malfoy” type antagonist,
+then humanize him over the course of the story, to the point that Spensa
+(and hopefully the reader) come to fall for him.
+
+His story ends as he refuses to eject when his ship is damaged; he keeps
+fighting, proving to himself that he belongs in the sky even with the
+shortcuts he was given. He goes down in a blaze of glory.
+
+* Secondary Characters
+** Kimmalyn (Callsign: Quirk)
+Quirk/Kimmalyn is a member of Spensa and Jorgen's ten-person cadet
+flight.
+
+Kimmalyn is a Beneather who is from the cavern city of Bountiful, a (not
+very bountiful) smaller underground city that is near to Inferna. Her
+parents moved to Inferna at the urging of one of their local leaders, as
+their daughter proved very skilled at flight simulations. They hoped
+that, eventually, they could get her to Alta--which they did, when of
+her bosses flagged her for flight training. (Her parents and siblings,
+however, still work the nutrient vats underground.)
+
+Perky and somewhat innocent, she frequently says things that are
+cringeworthy. She wasn't raised as a Defiant, however, and offers a kind
+of “outsider” perspective on their somewhat aggressive and
+fighting-focused society. She's a quick friend to Spensa, and though
+she's extremely talented as a pilot, and particularly as a gunner, she's
+also very timid--and responds poorly to enemy fire. Midway through the
+book, she breaks and flees under fire, and is kicked out of the DDF for
+cowardice. (Though she returns in the end climax.)
+
+** Hadiya (Callsign: Hurl)
+Hadiya/Hurl is a member of the ten-person cadet flight.
+
+Hurl is a comedic character--athletic, always a top performer in her
+classes, she also doesn't take much seriously. She's a contrast to some
+of the others (Spensa included) who are hyper-serious. She treats the
+entire training like a game, and things come easily to her. She has an
+early rivalry with Spensa, but it quickly turns friendly, as Spensa
+realizes that Hurl just likes a good challenge. (And in turn likes
+anyone who gives it to them.) Her “take nothing seriously” attitude can
+be trying at time, but also gives some nice comedic breaks to otherwise
+grim scenes.
+
+Hurl meets her end in the same encounter where Spena ejects, but Hurl
+(being a classic Defiant) refuses to do so, and gets blown up.
+
+** Nedd (Callsign: No Dice)
+Nedd “No Dice” is a member of the ten-person cadet flight.
+
+Nedd, like Jorgen and Arturo, is an Abover who gets preferential
+treatment and a free pass into flight school. (Though he doesn't bring
+his own ship.) He has two older brothers who are full pilots, and it's
+expected he'll be one as well.
+
+A good friend to Jorgen, he is initially presented as a “crony” to his
+friend. Through the course of the book, however, he's revealed as a nice
+guy--just lacking in ambition. He's there because it's expected, and
+doesn't have much drive.
+
+He's exceptionally good at sticking his foot in his mouth, and is always
+trying to boast (a classic Defiant activity) but is really bad at it,
+and usually ends up sticking his foot in his mouth.
+
+He drops out of the flight after one of his brothers is killed in action
+during fighting, and just can't force himself to fly the next day. He's
+kicked out for cowardiace but, with Quirk, comes back at the end climax.
+
+** Arturo (Callsign: Amphisbaena)
+Arturo (whose callsign is really hard to say, but which he thinks is
+cool) is a member of the ten-person cadet flight. Another Abover and
+friend of Jorgen, he's presented as a crony early in the book.
+
+Precise, intelligent, and a little stiff, Arturo is the most consistent
+pilot in the flight. He tends to consider himself smarter than everyone
+else, which is only partially true, and has a habit of saying things
+that imply just how smart he is. He's offputting at first, but once you
+get to know him, you realize he's not being arrogant--or, at least, not
+maliciously so. He has trouble grasping why people wouldn't want to hear
+how smart he is.
+
+** Freyja (Callsign: FM)
+Freyja is a member of the ten-person cadet flight.
+
+A staunch member of the “Defiant Counter-Culture Movement,” Freyja likes
+to talk about the things “You Defiants” do, even though she's one
+herself. The daughter of a prominent senator, she has her own ship (like
+Jorgen) and was put into the military to “straighten her out.” But she's
+in the middle of a rebellious period, and likes to spout conspiracy
+theories and (sometimes) far out ideas. She can be the voice
+highlighting how strange this society can be, but since she's a little
+strange herself, she'll play a dual role.
+
+She is eventually promoted to full pilot.
+
+** Instructor Cobb (Callsign: Mongrel)
+Cobb is their flight instructor, a role that generally brings shivers of
+fear to those who talk about it. DDF flight instructors are known for
+being brutal, shouting, angry sergeants who beat their recruits into
+submission. This is what Spensa is expecting, and is shocked when she's
+instead introduced to Cobb--a tall, square-shouldered, quiet man. He
+never shouts, but is known to use silence as a weapon. He tells stories
+that will harrow the mind and soul, stories of battle and loss, but he
+always does it in a quiet voice. And he tends to, stories excepted, be a
+man of few words.
+
+At one point, the flight of cadets will hear a different flight
+instructor across the hall yelling at his cadets--the voice echoing
+through the hall. A symbol of what normally happens. But Cobb will
+stand, staring at the one in their class who screwed up, and let the
+silence stretch and stretch uncomfortably, before finally leaning down
+and just saying--softly--“Do better or you will die.”
+
+Most of the flight thinks he's creepy, and are disappointed in him. They
+whisper among themselves about why he's not up fighting, why he got
+assigned to look after cadets instead. Though Spensa finds that she is
+intrigued by the way he'll stand at the windows looking upward while
+they practice on the simulations. She finds that he reminds her of her
+father.
+
+Which is appropriate since, unknown to the kids, Cobb was in her
+father's flight of cadets many years ago. They were good friends, and
+Cobb was the one order to shoot her father down when he (supposedly)
+fled the battle. He obeyed orders, but now wants to see his friend's
+daughter succeed, as a kind of recompense for past sins.
+
+Cobb will be the one who lets her into the DDF at the beginning, despite
+failing her tests. He doesn't fly any more himself, which grows
+increasingly suspicious, and it turns out he has latent issues from the
+encounter with Spensa's father. He was too good a pilot to just discard,
+so he was moved into an instructional role.
+
+** Admiral Ironsides
+Commander of the DDF, Admiral Judy “Ironsides” is stern, determined
+woman with a ruthless air. She is a contrast to Cobb, and--for personal
+reasons--likes to frequently inspect the cadets to see what she'll have
+to work with in the future.
+
+She is the ultimate expression of Defiant culture. Firm, but also
+angry--and callous toward loss of life. To her, the war is everything.
+Stopping the Krell is everything. Most importantly, keeping Alta alive
+is everything. To her, it represents their only way forward, the symbol
+of humankind refusing to hide in the rock any longer.
+
+Unfortunately, she's feeling that slip away from her. Alta is in serious
+danger; they can't put up enough flights of pilots to keep the Krell
+back, and the enemy is slowly overwhelming them. She's putting more and
+more people into the air, then, with less and less training.
+
+She is unyielding, refuses to think of other options (at least, any that
+seem like cowardice to her) and represents (in some ways) the choice
+Spensa has to make. Ironsides will tell her that it's good for her to be
+angry, and she needs to take that anger out on the Krell, defending her
+people. She doesn't care what's beyond the debris. That's not important
+to her. She wants her fleet in order, and her fighters in their posts.
+
+She was the one who ordered Cobb to kill Spensa's father. She also knows
+the truth--that they're not fighting aliens, but other humans. She
+doesn't know exactly why, however, and wishes this to be a secret. She's
+not aware of the full business that humans are on a prison planet,
+quarantined from the rest of the galaxy. But when Spensa's father found
+out the truth, she ordered him killed, and branded him as a coward to
+cover it up.
+
+* Minor Characters
+** Bim: (No Callsign)
+Bim is a member of the ten-person flight of cadets who dies in one of
+the early scenes.
+
+Friendly, affable, he's amazed he got into Flight School--and talks
+about how this is blowing the minds of everyone he knows. He sits in the
+front row, and is determined to make good on this, and struggles over
+his callsign a lot--and never ends up picking one. He acts like he won
+the lottery with all of this, then gets blown out of the sky early on.
+
+** Magna (Callsign: Morningtide)
+Sequoia is a member of the ten-person flight team who dies in one of the
+early scenes.
+
+Aloof, uninterested, she doesn't respond when Spensa talks to her. They
+later find out she comes from another colony, and her accent makes her
+embarrassed. She is destroyed early in the book, along with Ben, in a
+harrowing scene.
+
+** Zeen (Callsign: Chaser)
+Spensa's father was a star pilot, one of the best that the DDF ever had.
+He came from extremely humble birth, the son of scavengers, and was held
+up as a symbol that even the lowliest of Defiants was still--well,
+Defiant. He almost did more PR than he did fighting, during the days
+when Inferna was first expanding and growing, becoming the largest and
+most permanent human settlement on Detritus. He sometimes had to get
+away from it all, sneaking out and walking the planet surface, doing as
+his scavenger parents taught him when young.
+
+He was a flight leader during the early days of Inferna's growth, and
+was assigned a key position when the Krell finally targeted the
+city--and sent a huge force to destroy it. (The largest enemy force
+they'd ever seen at the time, though now that size force is common.) At
+the advent of the battle, however, Chaser turned and broke from his
+flight--disobeying orders. He was commanded to return to post, or be
+shot down as a coward. When he didn't come back, he was shot down.
+
+In truth, Chaser was convinced that the attacks they were suffering
+weren't random patrol fleets--that more was going on. He claimed to have
+seen something in the sky, a station beyond the debris, and was
+determined to find out what it was. He kept telling his flight that if
+they didn't stop the enemy at the source, they'd eventually be worn
+down.
+
+When the enemy fleet came down, they opened a hole in the debris field,
+and Chaser made for it. Though the official story is that he turned back
+toward the surface to flee, he was actually caught--and shot down--while
+flying upward, pushing his ship well beyond its altitude limits, trying
+to get out and see what was up there.
+
+* Plot
+** Structure
+The novel will have five sections. A shorter (10k) introduction,
+including prologue, and a shorter (10) climax at the end. The inner
+three parts (each 20k words) will balance four types of chapters,
+hopefully each in an interesting way.
+
+*Relationship*: Spensa and the other cadets will interact in a schooling
+setting in Alta. Relationships, character drama, and the like.
+
+*Training*: In the classroom, the cadets will fly in simulations,
+teaching them in a safer environment. These will he half action, half
+classroom drama.
+
+*Testing*: There will be real-life tests that the students have to pass
+to prove their competence. Any who pass all three are made full pilots.
+As part of the testing, they will have to face actual combat
+situations--during which some of them will be killed in action.
+
+*Repairing*: The “B” plot of the book is Spensa's interactions with
+Murderbot, the ship she discovered--repairing it, talking to it,
+learning to fly it.
+
+** Intro
+*** PLAN [#B] Prologue
+:PROPERTIES:
+:POV:      Spensa
+:情绪:     悲伤
+:END:
+:LOGBOOK:
+- State "起草"       from              [2026-05-24 日 00:51]
+:END:
+
+The shot prologue of the book will show Spena and her father climbing
+out of a crack and picking through the rubble for supplies. He's a
+famous pilot, and she doesn't get why sometimes, he would ever want to
+get away from everyone adoring him. People don't tend to adore
+Spensa--they tell her to stop fighting, or stop getting into trouble.
+
+A rare break in the debris comes up above, and her father points it out
+to her. They share a moment, and she sees stars for the first time. He
+expresses his desire to get out there and see, and challenges her not to
+be angry at the kids who tease her. They're trapped on the ground, but
+she can set her sights for something higher. Something more grand.
+Together, they spot a twinkling light, something brighter than the other
+stars, and Zeen seems to read something into it. Has he seen this
+before?
+
+He gets a call on the radio, calling him in. They are scrambling all
+fighters, and an enemy force has been seen. He's needed, and he tells
+her to get back down below. In the moment before they part, he pulls off
+his pilot's pin and tosses it to her. Then they part. And we cut.
+
+Early Chapters
+
+We cut to Spensa, now seventeen, selling rats with her mother. We get a
+view of Inferna, and our first exposure to it, and meet Rodge. The tests
+are this evening, and Spensa isn't to be late--but we get internally
+from her that she's worried about the tests. One of her teachers comes
+to buy some rat, and we get an interaction, where Spensa talks about the
+test--and how well she'll do. But the teacher kind of lets the secret
+out, that there's _no way_ the daughter of a coward will be let into the
+DDF. Suggests that Spensa would be better served not embarrassing
+herself by showing up.
+
+Angered, her temper almost out of control, Spensa leaves. She climbs the
+hidden passages her father showed her, digs out her improvised speargun
+and blast helmet, and goes rat hunting. She sees the place where her
+father and she looked at the sky, but now all she can see up there is
+rubble. She watches some ships do formations from a distance, and steps
+toward them. Then remembers her teacher's words, and looks for something
+to take out her aggression.
+
+She goes back to hunting, and gets a rat, then spots another--but in
+chasing it, slips into a hole and crashes into a hidden cavern. This is
+bad. She uses a small, improvised version of the Light Grapple (to
+introduce it to us for later on) and manages to free herself from the
+rubble. Then, looking for an escape, she stumbles across an interesting
+scrape trail--something her father trained her usually led to a crash
+she could salvage. She checks her clock, admits she might be late
+because of this. But maybe it IS best if she doesn't show up.
+
+She follows the scrapes, moves some rocks, and is rewarded with some
+chunks of broken metal. She's very pleased with this, until she looks
+up. And finds an _entire fighter ship_, in remarkable condition, down
+here. She looks it over, brushes off its call sign, then sits down and
+thinks about her state. She pulls out her father's pin, and makes the
+decision for herself that she wants to fly. She wants to soar, and see
+what is up there. And she needs to be defiant enough not to let a
+teacher scare her off--in fact, she starts to wonder with a shock if
+that's not part of the test. She blushes, and feels increasingly certain
+that it IS part of the test. One she's in the process of failing.
+
+She scrambles out of the rubble. And in the next cut, we see her
+arriving at the testing, just on time. She sits down and gives a thumbs
+up to Rodge, then sets out her father's pin and starts into the test.
+(On the table are a set of ten cadet pins.)
+
+It's on a subject she's never studied before. Mechanics of energy
+transference, using vat-grown algae for human sustenance. She figures,
+this is just an introductory question, and flips through the test. But
+that's the whole thing.
+
+Lots of jargon, and she's baffled. What does this have to do with being
+a pilot? The test is supposed to be tough, but why this? Feeling stupid,
+she struggles through as many of the questions as she can, but finally
+just sits there. Rodge turns in his test, covered in writing. She looks
+around, and some just leave, tests half-finished. Others turn theirs in
+and move to the waiting room, where results are announced. She just sits
+there, staring at her test. Her teacher from before tells her, “I warned
+you,” and Spensa says, “I thought that was part of the test.” But her
+teacher says she's a fool, and implies her test is different. And what
+use is there complaining; this was chosen months ago, and the test is a
+formality. You're a rat scavenger, and that's what you'll always be.
+
+She stays there for hours, well into the night. Refusing to turn in her
+test. She hears cheers from the other room as results are announced and
+pins are given away. Then silence. The test-giver has left, and she's
+just sitting there, with papers in her hands and her father's pin on the
+table. People try to get her to leave, but she refuses, stubbornly
+holding the test. She realizes it's foolish, but she thinks that maybe
+if she just never gives it up, the dream of being a pilot doesn't have
+to end. As she's sitting there--the lights having been turned off on
+her--she hears janitors moving outside, cleaning the facility. And she
+turns over her paper, ignoring the test part, and starts sketching the
+ship she discovered down below.
+
+She starts to think. If she had her own ship, they'd _have_ to let her
+in. It's in the rules. If she could gather enough supplies, if she could
+repair it... She's making a plan. She's not going to let them keep her
+from becoming a pilot.
+
+As she works, a figure darkens the doorway, and asks why she's still
+there. Thinking she's speaking to a janitor, she keeps drawing, and
+mutters that she's going to force them to drag her out by her heels.
+
+They have a short conversation, in which the “janitor” asks why she
+wants this so badly. Doesn't she know that pilots almost all die? That
+it's much safer to just stay down in the bunker, and she has two
+immediate thoughts. The first is anger, and bites of a response, saying
+she needs to prove her father's innocence. The words that come out are,
+however, “Down here, you can't see the sky.” The janitor points out you
+can't see it up there, either, not with the debris. When she doesn't
+respond, the man steps over and leaves something on her desk. It's a
+pin--the pin of a cadet in flight school. She gapes at it, then
+scrambles to her feet, looking at the shadowed figure in the doorway, a
+tall older man. She asks how, and she sees a flash of metals on his
+jacket. His face is shadowed, but he reminisces briefly on the term
+“Defiant.” “We call ourselves that to defy the krell. We beat it into
+our brains, until it permeates us. Perhaps, then, we should be so
+surprised when _we_ are the ones that get defied. Class starts tomorrow,
+seven hundred sharp. You'll get to see the sky. It will probably be the
+last thing you see, but you will get to see it.”
+
+** Part One: :Spensa:武戏:快:
+- Introductions are made. Cobb: “One of you might make it. In a good
+  class, two make it. I'm thinking in this class, none of you will.”
+
+- Callsigns are explained, and simulators are introduced. Admiral speaks
+  to them all. (Has it out for Spensa.) First clash with Jorgen.
+
+- Instead of doing initial training that day, they are taken right up
+  into the sky, told to hold. Their first test. The enemy is here. (The
+  students are just supposed to put up a show of force. Just be there,
+  so the enemy thinks there are reinforcements.)
+
+- They pass the time, tense, and are told to pick callsigns to keep
+  themselves from being too nervous. Spensa gets Jorgen named Jerkface.
+  (Retribution for their clash earlier.)
+
+- One Krell gets close, and Cobb calls, tells them to get down low for
+  anti-aircraft guns in the city to shoot the thing down. They manage
+  to. Spensa wonders: Why isn't Cobb up here himself.
+
+- It's nerve wracking, though none die. When they land, Cobb says they
+  were sent up to give them a good scare. He says this is to warn them
+  what it will be like. “Who is going to drop out? There's often one,
+  after the first fight.” Nobody yet.
+
+- Assigned bunks...except for Spensa. She's not given credits for
+  housing, as Cobb invited her in, but she didn't actually pass the
+  tests. She'll need to pay for her own housing, or return to Inferna
+  each night. Cobb doesn't like this, but Admiral insists. He argues
+  she'll lose hours that way, and needed camaraderie. Admiral is firm.
+
+- Spensa is turned out for the night, but instead of taking the paths
+  down, she makes a short hike to where M-Bot is. She sleeps in the
+  cockpit, as it's kind of like a bed. Next morning, wakes early, and
+  starts looking into repairing it. Realizes she needs to steal a power
+  source.
+
+- Next day: Rigmarole drops out. Too scared of that fight. Cobb respects
+  that.
+
+- They are introduced to the simulators, and the Light Grapples. More
+  confrontation between Spensa and Jorgen. In simulations, Spensa pulls
+  off something. They're told to achieve a goal at all costs, and she
+  treats it like a simulation, not real life, and does something that
+  kind of “breaks” the system. (Maybe crashes into Jorgen head-on,
+  knowing it will knock out the highest point leader except herself, and
+  she'll still win this round of practice sparring?) Cobb says that
+  wouldn't have been good in real life, but she reminds him he told her
+  to achieve the goal at all costs. She's won the sparring, even if
+  she's “Dead.”
+
+- Jorgen is annoyed by this. He confronts her after, and they clash. He
+  threatens her. She steals one of his power gloves to use for powering
+  her ship.
+
+- She gets it up and running, but is at the extent of her abilities.
+  Decides she needs help, and goes and grabs Rodge. He's amazed.
+
+- The second test is successfully using light-grapples to spin around
+  poles in real life. They go through an obstacle course, and in the
+  middle of it, there's an attack. They're commanded into position, and
+  they actually fight Krell this time.
+
+- Two of the team--Magna and Bim--are killed.
+
+** Part Two:
+- It is a somber group that gather for training the next day. Spensa
+  overhears arguments between Cobb and Admiral--Cobb is angry that the
+  students were used at all. He says they're too green.
+
+- Admiral: “We're losing. We'll be pushed underground again. We need
+  every fighter. And I'll use every resource I can get.”
+
+- In class: Cobb talks about loss. And tries to frighten them into
+  leaving again.
+
+- In the simulators, they practice dodging rubble. Hurl wants to know
+  when they get to actually shoot things, and Cobb says they need
+  practice on this first. We get an explanation of teamwork, and how to
+  use the IMP. Warning that they're left completely vulnerable if they
+  use that.
+
+- Spensa returns to her cave that night. Rodge has main power up, the AI
+  boots up for the first time. They're amazed. A talking calculator?
+  Like, a machine that can voice its own thoughts? Introductions of
+  M-bot. She takes with her a device that lets her lock the ship and
+  engage a stealth device that hides it from salvage seekers. This was
+  up and running for years, but the power finally gave out, which is why
+  she was able to find the ship.
+
+- Their next test is to attack rubble as it's falling, while a real
+  fight happens overhead. They don't fight the Krell, not really, but
+  they destroy rubble to keep it from hitting the city. In the fighting
+  overhead, Nedd's brother (a full pilot) is killed.
+
+- Need doesn't show up the next day for classes. They kick him out, the
+  Admiral says there's no room for cowards--every ship is precious. They
+  can't have anyone in a cockpit who isn't 100% committed.
+
+- M-bot can talk to her through the locking device, which shocks her. He
+  can hack into her audio in the simulation and things like that. (This
+  way, we can continue to progress their relationship while she's doing
+  training.) M-Bot is shockingly innocent and a pacifist, to comedic
+  effect at times.
+
+- That night, Spensa finds that the other girls in her flight have made
+  a bed for her on the floor, and they've saved portions of their
+  rations for her. She feels welcome for the first time, and stays with
+  them that night, even though she knows she should get back and help.
+  Like, real friendship stuff now. Good bonding with Qurik, Hurl, and
+  FM.
+
+- Admiral next day. “Don't do that again.” She gets angry, and
+  surprisingly, the Admiral is pleased with this. “I can use anger,
+  Coward. Pity, not so much. I killed your father. Are you all right
+  with that? Prove that you're not. If you want to succeed as a pilot,
+  you need to prove to me you're not the coward he was.”
+
+- In the next study session, this all distracts her a lot. Here, they go
+  over advanced using of Light-lances in simulation to bring down the
+  enemy.
+
+- Progress on relationships. Some good things with Jorgen here, where we
+  start to soften to him, in part through Arturo and Nedd. (As we soften
+  to them, we see Jorgen through their eyes.) The group is working like
+  a team; Hurl and Spensa work together really well as wingmates.
+
+- Little more fixing of M-Bot. Rodge warns: We're going to need some new
+  engine parts that I can't just build myself. But there's a warning,
+  and the enemy is attacking. She tries to get M-Bot to help her, but
+  he's a pacifist. (Plus, he's still broken.)
+
+- Spensa barely gets back late, and the rest of the team is already up.
+  She jumps into her pico and joins them.
+
+- Big fight with the Krell: Exciting combat. However, Arturo gets hit,
+  and his ship shields are knocked out. Worse, near the end of the
+  fight, Hurl is killed. (She refuses to eject. She will NOT be a
+  coward, even when Spensa begs her to.)
+
+** Part Three:
+- Opening, Spensa talking to M-Bot, she's working underneath with a
+  wrench while Rodge is doing other work. She's explaining about death
+  to the computer, who doesn't understand it. Spensa is trying to deal
+  with the loss of Hurl herself.
+
+- Rodge is right. There's a big problem with his engines--and we're not
+  going to make any more progress without them.
+
+- Arrives for the day's training, and techs are deactivating and doing
+  maintenance on the simulators. Cobb explains that they've progressed
+  to the point that there are no more simulations for them. They're
+  given a half-day off, but before they go, Quirk approaches Cobb. She's
+  dropping out. She just can't take this. Apologizes to the rest of
+  them, and is kicked out of the DDF.
+
+- In their spare time, Spensa wants to go find Hurl's body. Nobody will
+  go with her, but Jorgen will. He drives her out in one of his family's
+  cars, and they talk. About Hurl, about Nedd (who dropped out when his
+  brother died) about life, and things. She's falling for him, and he
+  for her.
+
+- They find Hurl's corpse, and they burn her and grab her pin to give to
+  her family. Jorgen marks the location for salvage, and she has M-Bot
+  hack the signal, telling the salvage team to stow the wreckage near
+  the cave for “Security purposes” which ends up working. A salvage team
+  pulls the wreckage (later, off screen) to where Rodge can get at it
+  and grab the parts he needs.
+
+- More practice in the skies, and they're learning really well. Spensa
+  and Jorgen are now wingmates. FM and Arturo are wingmates.
+
+- They land, and see what's left of the main combat wing after a bloody
+  battle with the Krell. They're getting really beaten up out there--so
+  many holes in their teams. As the group is watching this, Arturo's
+  parents arrive and pull him out, despite him being one of the best
+  pilots, because of how dangerous it's becoming. They have enough
+  wealth and power they can do that. The flight is now down to only
+  three Spensa, Jorgen, FM. They're going to be combined with the
+  remnants of the two other student flights, who have taken similar
+  casualties.
+
+- That night, talking to M-Bot, and he mentions things about some of his
+  memories--which are patchy. She flies him for the first time. She
+  takes to it very naturally; it's a wonderful flight. He's super
+  maneuverable and fast.
+
+- They bond, but after the flight, he tells her he's shutting down. He
+  cannot accept where this is going, and has to follow the mandate of
+  his master: Don't fight any longer. He is never going to be her ship.
+
+- She is heartbroken, but--at the same time--understands. She leaves
+  him, closing the hangar down and locking him in darkness, activating
+  the stealth device and planning to leave him for a few more hundred
+  years. (I need something to do with Rodge here.)
+
+- Spensa then, with nowhere to sleep, returns to visit her mother. She
+  talks about her father, and reconnects. Spensa: “Doesn't it matter to
+  you, the things they say about him?” Mom: It seems to me the coward is
+  the one who cares more about what people think than what is right. The
+  coward is afraid of not being known as a hero, and the hero isn't
+  scared of what will be said. (But, of course, this will be said in a
+  more pithy.)
+
+- This is really good for Spensa. The next day, she confronts Cobb, and
+  asks questions about what's really happening. Why they don't have
+  answers about what the Krell really are. She demands to know what he
+  knows about her father, and all he'll say is that she sounds like
+  Chaser used to. (Also, subtle foreshadowing that he has clues of what
+  she's been doing. Her drawing of M-bot on the back of her test, for
+  example.)
+
+- Almost done with their tests. But the city is in real danger. They
+  fight the krell, and the newly formed cadet flight is used as scouts.
+  In a dynamic sequence, they discover a huge fleet preparing up there.
+  Maximum number of krell ships--a full contingent, the largest they've
+  ever faced at once.
+
+- Fun combat. But Spensa's ship is hit. Rather than die, she makes the
+  choice to eject.
+
+- Admiral is very excited by this. She brands Spensa as a coward, and
+  kicks her out of the DDF for ejecting too early--for not fighting, and
+  for running. Admiral takes her father's pin away, somehow. (How does
+  she get it? Not sure yet.)
+
+** Climax:
+- The only two remaining cadets--Jorgen and FM--graduate. Spensa watches
+  from a distance, and won't meet Cobb's eyes when he looks for her.
+  Somewhere in here, she realizes she still has the locking mechanism
+  for M-Bot's cave. Frustrated, she throws it away, and walks through
+  the city of Alta.
+
+- She finds a café with Nedd and Quirk, reminiscing together. Nedd has a
+  radio that can hear military broadcasts, and they listen as the huge
+  Krell fleet is deployed against Alta. Every available fighter ship is
+  sent to confront them.
+
+- Jorgen is in danger. He warns, something's wrong. He's doing scouting,
+  which he's proven effective at. He says that the carrier ship--the one
+  with the lifebuster bomb--isn't among the fleet they're fighting.
+
+- Spensa looks up and sees stars, and a glowing star at the front, and a
+  small flight coming down. The big fleet was a distraction. The others
+  say there's nothing they can do, but she points out, there is one ship
+  remaining. Arturo's broken one.
+
+- Cut to command center. Admiral's POV. They've identified a lifebuster,
+  and a small flight coming right for the city. The admiral is livid;
+  there has to be something they can do. Someone they can send. They've
+  committed everything to the other fight. (As they thought there
+  couldn't be any more enemy, as this was the maximum number of ships
+  ever sent.) What about the other defense forces? Too far away. Private
+  ships maybe? Calls Arturo's family, demands their ships, but they're
+  pulling out. It would be suicide.
+
+- The people around the Admiral say they need to evacuate, and she calls
+  that cowardice. Tech: So you'd throw away the entire command center?
+  Admiral: What about this? What about everything we've worked for? We
+  leave, and this is no more. Both cities are no more. Tech: And what do
+  we gain by staying?
+
+- One of the other techs: Admiral. Admiral! On the screen, a single ship
+  streaking up--a single point of light. What is that ship? Who is
+  piloting it? Tech: they just radioed in a callsign. Who? Who is it?
+  Tech... Callsign: Chaser.
+
+- Cut to Spensa, flying toward the enemy fleet, alone. Admiral calls.
+  “Coward? What are you doing. Engineer report says that ship has no
+  shield.” Spensa: If I can bring down the ship carrying the bomb, it
+  buys us a lot of time, right? Cut to Admiral, speechless, as one ship
+  engages dozens.
+
+- Spin fights, but there are too many. She ends up taking a hit to the
+  engines, and in the end is immobilized, floating there. The sky
+  explodes with debris, coming down toward her, and one enemy ship
+  circles around to deal with her. She looks up, at the sky, as she
+  waits for it to happen. But Cobb saves her, as M-Bot has called him.
+  (Using the device she threw away, which Cobb recovered.)
+
+- Cobb grabs her with a light grapple and lands her broken ship. He
+  spills the beans: “Listen, they didn't kill your father for fleeing.
+  They killed him because of what he saw. A secret, though I don't know
+  what it is. He disobeyed, he flew up, and he saw something.” Cobb
+  hasn't been able to fly since. He tells her some sage advice, and she
+  remembers what her mother said.
+
+- She gets into M-Bot, and asks what happened to shutting down. The ship
+  admits, “I said something that was untrue.” (This will echo the first
+  time he talked to her about lies, which he couldn't believe that she'd
+  say.) His big arc is this: He went to shut down, but couldn't do it.
+  Because he wanted to live. And he finally understands why she'd fight.
+
+- They fly back, double speed, and engage the Krell. But her weapons
+  still are locked. (M-Bot has decided to help, but the lock is beyond
+  his programming to remove.) Arturo, Quirk, and Nedd arrive in Arturo's
+  family ships, which they've stolen. Spensa draws fire and dodges.
+  She's really, really good at it--best at dodging. Together, they bring
+  down the ship with the bomb, and the rest of the Krell disengage.
+
+- Spensa is congratulated, and the Admiral offers her and her father a
+  full pardon. Just come back. But she looks up.
+
+- And flies skyward.
+
+- Admiral threatens her, but she has M-Bot patch it into all signals.
+  Talks. Because my father saw something? Yes, Admiral admits. Don't do
+  this. You don't know what you're ruining. Our enemy isn't what you
+  think. It's important. Please...don't do this.
+
+- She flies high, and sees that their enemy is humans. (Stencil says
+  “Quarantine forces” or something.) I'm thinking we cut here, with the
+  rest as a mystery, but we'll see. I also haven't 100% decided if this
+  is fully automated, as I talk about earlier in the outline, or if it's
+  a better reveal if a smaller subset of humans was put in charge of
+  maintaining the stations and keeping their own kind down. (The reason
+  to do this is it can be a quick twist at the end--there are no
+  fearsome aliens, just other humans, which raises a big question. The
+  reason not to do it is because it's a better “pitch” if humankind is
+  all being quarantined. But I don't quite know how I can drop that bomb
+  at the ending in a way that doesn't require a huge infodump.)
+
+* Cover suggestion
+I think whatever you were planning for the cover with Apocalypse Guard
+can be adapted to this book, as great lettering + space planets works
+here too. If I might make a suggestion, though, I think whatever we do
+it should include a little graphic of a line shooting upward, perhaps
+toward (or through) the title lettering. The idea is to do something
+that looks like a reverse shooting star, simulating the idea of a ship
+launching into the sky--and going skyward. (A replication of the scene
+at the end where Spensa turns her ship and flies upward, out into
+space.)
+
+If you google “Shooting star” and imagine the image rotated in your head
+so it is shooting straight upward (instead of the general sideways
+downward) you might be able to imagine what I'm seeing. Other than that,
+cool title lettering works for me. We don't even need planets, if we
+don't want them.
+
+Series title could work as Defiant: Book One. (Unless you think it's too
+similar to
